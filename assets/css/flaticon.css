@@ -1,0 +1,155 @@
+/*
+  Flaticon icon font: Flaticon
+  Creation date: 25/08/2019 15:18
+  */
+
+@font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.eot");
+    src: url("../fonts/Flaticon.eot?#iefix") format("embedded-opentype"), url("../fonts/Flaticon.woff2") format("woff2"), url("../fonts/Flaticon.woff") format("woff"), url("../fonts/Flaticon.ttf") format("truetype"), url("../fonts/Flaticon.svg#Flaticon") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    @font-face {
+        font-family: "Flaticon";
+        src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+    }
+}
+
+[class^="flaticon-"]:before,
+[class*=" flaticon-"]:before,
+[class^="flaticon-"]:after,
+[class*=" flaticon-"]:after {
+    font-family: Flaticon;
+    font-style: normal;
+}
+
+/*
+  Flaticon icon font: Flaticon
+  Creation date: 25/08/2019 15:18
+  */
+
+@font-face {
+	font-family: "Flaticon";
+	src: url("../fonts/Flaticon.eot");
+	src: url("../fonts/Flaticon.eot?#iefix") format("embedded-opentype"), url("../fonts/Flaticon.woff2") format("woff2"), url("../fonts/Flaticon.woff") format("woff"), url("../fonts/Flaticon.ttf") format("truetype"), url("../fonts/Flaticon.svg#Flaticon") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+	@font-face {
+		font-family: "Flaticon";
+		src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+	}
+}
+
+[class^="flaticon-"]:before,
+[class*=" flaticon-"]:before,
+[class^="flaticon-"]:after,
+[class*=" flaticon-"]:after {
+	font-family: Flaticon;
+	font-style: normal;
+}
+.flaticon-001-book:before { content: "\f100"; }
+.flaticon-002-whiteboard:before { content: "\f101"; }
+.flaticon-003-pillar:before { content: "\f102"; }
+.flaticon-004-flasks:before { content: "\f103"; }
+.flaticon-005-dna:before { content: "\f104"; }
+.flaticon-006-globe:before { content: "\f105"; }
+.flaticon-007-atom:before { content: "\f106"; }
+.flaticon-008-paint-palette:before { content: "\f107"; }
+.flaticon-009-ball:before { content: "\f108"; }
+.flaticon-010-saw:before { content: "\f109"; }
+.flaticon-011-chef-hat:before { content: "\f10a"; }
+.flaticon-012-book:before { content: "\f10b"; }
+.flaticon-013-briefcase:before { content: "\f10c"; }
+.flaticon-014-magnifying-glass:before { content: "\f10d"; }
+.flaticon-015-book:before { content: "\f10e"; }
+.flaticon-016-ecommerce:before { content: "\f10f"; }
+.flaticon-017-camera:before { content: "\f110"; }
+.flaticon-018-graphic-design:before { content: "\f111"; }
+.flaticon-019-video-camera:before { content: "\f112"; }
+.flaticon-020-drama:before { content: "\f113"; }
+.flaticon-021-syringe:before { content: "\f114"; }
+.flaticon-022-news:before { content: "\f115"; }
+.flaticon-023-book:before { content: "\f116"; }
+.flaticon-024-guitar:before { content: "\f117"; }
+.flaticon-025-helmet:before { content: "\f118"; }
+.flaticon-026-paw:before { content: "\f119"; }
+.flaticon-027-computer:before { content: "\f11a"; }
+.flaticon-028-helmet:before { content: "\f11b"; }
+.flaticon-029-laptop:before { content: "\f11c"; }
+.flaticon-030-tools:before { content: "\f11d"; }
+.flaticon-031-swimming-pool:before { content: "\f11e"; }
+.flaticon-032-social-science:before { content: "\f11f"; }
+.flaticon-033-book:before { content: "\f120"; }
+.flaticon-034-computer:before { content: "\f121"; }
+.flaticon-035-tractor:before { content: "\f122"; }
+.flaticon-036-blueprint:before { content: "\f123"; }
+.flaticon-037-law:before { content: "\f124"; }
+.flaticon-038-economics:before { content: "\f125"; }
+.flaticon-039-plant:before { content: "\f126"; }
+.flaticon-040-document:before { content: "\f127"; }
+.flaticon-041-document:before { content: "\f128"; }
+.flaticon-042-tooth:before { content: "\f129"; }
+.flaticon-043-settings:before { content: "\f12a"; }
+.flaticon-044-plumbing:before { content: "\f12b"; }
+.flaticon-045-sewing:before { content: "\f12c"; }
+.flaticon-046-flask:before { content: "\f12d"; }
+.flaticon-047-civil-engineering:before { content: "\f12e"; }
+.flaticon-048-world:before { content: "\f12f"; }
+.flaticon-049-bricks:before { content: "\f130"; }
+.flaticon-050-political-science:before { content: "\f131"; }
+.flaticon-051-megaphone:before { content: "\f132"; }
+.flaticon-052-criminology:before { content: "\f133"; }
+.flaticon-053-journalism:before { content: "\f134"; }
+.flaticon-054-electrical-engineer:before { content: "\f135"; }
+.flaticon-055-whiteboard:before { content: "\f136"; }
+.flaticon-056-scissors:before { content: "\f137"; }
+.flaticon-057-engineer:before { content: "\f138"; }
+.flaticon-058-flask:before { content: "\f139"; }
+.flaticon-059-car:before { content: "\f13a"; }
+.flaticon-060-mannequin:before { content: "\f13b"; }
+.flaticon-061-financial:before { content: "\f13c"; }
+.flaticon-062-rocket:before { content: "\f13d"; }
+.flaticon-063-astronomy:before { content: "\f13e"; }
+.flaticon-064-settings:before { content: "\f13f"; }
+.flaticon-065-warehouse:before { content: "\f140"; }
+.flaticon-066-beauty-treatment:before { content: "\f141"; }
+.flaticon-067-interior-design:before { content: "\f142"; }
+.flaticon-068-ball:before { content: "\f143"; }
+.flaticon-069-fabric:before { content: "\f144"; }
+.flaticon-070-settings:before { content: "\f145"; }
+.flaticon-071-biology:before { content: "\f146"; }
+.flaticon-072-bottle:before { content: "\f147"; }
+.flaticon-073-mental-health:before { content: "\f148"; }
+.flaticon-074-science:before { content: "\f149"; }
+.flaticon-075-building:before { content: "\f14a"; }
+.flaticon-076-apple:before { content: "\f14b"; }
+.flaticon-077-hat:before { content: "\f14c"; }
+.flaticon-078-flask:before { content: "\f14d"; }
+.flaticon-079-classical:before { content: "\f14e"; }
+.flaticon-080-international-relations:before { content: "\f14f"; }
+.flaticon-081-book:before { content: "\f150"; }
+.flaticon-082-artificial-intelligence:before { content: "\f151"; }
+.flaticon-083-baby:before { content: "\f152"; }
+.flaticon-084-building:before { content: "\f153"; }
+.flaticon-085-human-resources:before { content: "\f154"; }
+.flaticon-086-plane:before { content: "\f155"; }
+.flaticon-087-receptionist:before { content: "\f156"; }
+.flaticon-088-robotics:before { content: "\f157"; }
+.flaticon-089-philosophy:before { content: "\f158"; }
+.flaticon-090-entrepeneur:before { content: "\f159"; }
+.flaticon-091-ethics:before { content: "\f15a"; }
+.flaticon-092-maths:before { content: "\f15b"; }
+.flaticon-093-whiteboard:before { content: "\f15c"; }
+.flaticon-094-zoology:before { content: "\f15d"; }
+.flaticon-095-event-management:before { content: "\f15e"; }
+.flaticon-096-microbiology:before { content: "\f15f"; }
+.flaticon-097-nuclear-energy:before { content: "\f160"; }
+.flaticon-098-triangle:before { content: "\f161"; }
+.flaticon-099-anthropology:before { content: "\f162"; }
+.flaticon-100-game-development:before { content: "\f163"; }

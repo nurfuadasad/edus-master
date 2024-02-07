@@ -1,0 +1,3411 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Edus Master\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-28 14:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.3; wp-5.7.2\n"
+"X-Domain: edus-master"
+
+#: elementor/widgets/class-core-single-item-elementor-widget.php:152
+msgid " Become A Student"
+msgstr ""
+
+#: wp-widgets/class-post-category-widget.php:66
+#: wp-widgets/class-service-category-widget.php:55
+msgid " Oops, there are no category."
+msgstr ""
+
+#: wp-widgets/class-recent-post-widget.php:70
+msgid " Oops, there are no posts."
+msgstr ""
+
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:180
+msgid "$"
+msgstr ""
+
+#: admin/class-menu-page.php:90 admin/class-menu-page.php:102
+#: admin/class-menu-page.php:114
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: admin/class-menu-page.php:95 admin/class-menu-page.php:107
+#: admin/class-menu-page.php:119
+#, php-format
+msgid "%s Categories"
+msgstr ""
+
+#: elementor/widgets/class-counterup-one-elementor-widget.php:119
+msgid "+"
+msgstr ""
+
+#: wp-widgets/class-about-us-widget.php:49
+msgid "+3 123 456 789"
+msgstr ""
+
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:192
+msgid "/mo"
+msgstr ""
+
+#: elementor/widgets/class-course-single-item-elementor-widget.php:101
+msgid "02 Column"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:164
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:164
+#: elementor/widgets/class-course-single-item-elementor-widget.php:103
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:102
+#: elementor/widgets/class-event-grid-one-elementor-widget.php:102
+msgid "03 Column"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:163
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:163
+#: elementor/widgets/class-course-single-item-elementor-widget.php:102
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:101
+#: elementor/widgets/class-event-grid-one-elementor-widget.php:101
+msgid "04 Column"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:165
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:165
+#: elementor/widgets/class-course-single-item-elementor-widget.php:104
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:103
+#: elementor/widgets/class-event-grid-one-elementor-widget.php:103
+msgid "06 Column"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:139
+msgid "1 star"
+msgstr ""
+
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:233
+msgid "100 GB Hosting"
+msgstr ""
+
+#: elementor/widgets/class-counterup-one-elementor-widget.php:113
+msgid "150"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:140
+msgid "2 star"
+msgstr ""
+
+#: elementor/widgets/class-counterup-three-elementor-widget.php:198
+#: elementor/widgets/class-counterup-two-elementor-widget.php:113
+msgid "25"
+msgstr ""
+
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:168
+msgid "250"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:141
+msgid "3 star"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:142
+msgid "4 star"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:143
+msgid "5 star"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:419
+msgid "50% Offer"
+msgstr ""
+
+#: elementor/widgets/class-what-we-single-item-elementor-widget.php:120
+msgid "500+ Students"
+msgstr ""
+
+#: elementor/widgets/class-single-skill-item-elementor-widget.php:101
+msgid "60"
+msgstr ""
+
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:138
+msgid "8-800-10-500"
+msgstr ""
+
+#: elementor/widgets/class-contact-info-list-one-elementor-widget.php:112
+msgid "99 NY Address street, Brooklyn, United State"
+msgstr ""
+
+#: wp-widgets/class-about-me-widget.php:30
+msgid "About Me"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:147
+msgid "Absolute"
+msgstr ""
+
+#: elementor/widgets/class-footer-menu-list-elementor-widget.php:135
+msgid "Academic English"
+msgstr ""
+
+#: wp-widgets/class-post-category-widget.php:87
+#: wp-widgets/class-recent-post-widget.php:92
+#: wp-widgets/class-service-category-widget.php:70
+msgid "Acceding"
+msgstr ""
+
+#: elementor/widgets/class-accordion-elementor-widget.php:36
+msgid "Accordion 01"
+msgstr ""
+
+#: elementor/widgets/class-accordion-elementor-widget.php:102
+msgid "Accordion Item"
+msgstr ""
+
+#: elementor/widgets/class-core-single-item-elementor-widget.php:180
+msgid "Active and Hover Style"
+msgstr ""
+
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:145
+msgid "Active Package"
+msgstr ""
+
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:120
+msgid "add month tab label"
+msgstr ""
+
+#: admin/class-custom-post-type.php:56 admin/class-custom-post-type.php:57
+msgid "Add New Course"
+msgstr ""
+
+#: admin/class-custom-post-type.php:175
+msgid "Add New Course Category"
+msgstr ""
+
+#: admin/class-custom-post-type.php:91 admin/class-custom-post-type.php:92
+msgid "Add New Event"
+msgstr ""
+
+#: admin/class-custom-post-type.php:198
+msgid "Add New Event Category"
+msgstr ""
+
+#: admin/class-custom-post-type.php:126 admin/class-custom-post-type.php:127
+msgid "Add New Mentor"
+msgstr ""
+
+#: admin/class-custom-post-type.php:221
+msgid "Add New Mentor Category"
+msgstr ""
+
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:126
+msgid "add year tab label"
+msgstr ""
+
+#: elementor/widgets/class-counterup-one-elementor-widget.php:126
+#: elementor/widgets/class-empty-div-elementor-widget.php:177
+#: elementor/widgets/class-heading-title-elementor-widget.php:130
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:144
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:153
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:209
+#: elementor/widgets/class-shape-div-elementor-widget.php:184
+msgid "Alignment"
+msgstr ""
+
+#: admin/class-custom-post-type.php:174
+msgid "All Course Category"
+msgstr ""
+
+#: admin/class-custom-post-type.php:197
+msgid "All Event Category"
+msgstr ""
+
+#: admin/class-custom-post-type.php:220
+msgid "All Mentor Category"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:119
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:119
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:194
+#: elementor/widgets/class-course-single-item-elementor-widget.php:127
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:106
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:126
+#: elementor/widgets/class-event-grid-one-elementor-widget.php:136
+msgid "Ascending"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:223
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:265
+#: elementor/widgets/class-brand-slider-elementor-widget.php:169
+#: elementor/widgets/class-course-single-item-elementor-widget.php:204
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:202
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:221
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:222
+#: elementor/widgets/class-tutor-carousel-one-elementor-widget.php:135
+msgid "Autoplay"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:290
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:332
+#: elementor/widgets/class-brand-slider-elementor-widget.php:178
+#: elementor/widgets/class-course-single-item-elementor-widget.php:283
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:269
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:273
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:274
+#: elementor/widgets/class-tutor-carousel-one-elementor-widget.php:144
+msgid "Autoplay Timeout"
+msgstr ""
+
+#: elementor/widgets/class-accordion-elementor-widget.php:166
+#: elementor/widgets/class-accordion-elementor-widget.php:212
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:419
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:440
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:461
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:482
+#: elementor/widgets/class-counterup-three-elementor-widget.php:384
+#: elementor/widgets/class-counterup-two-elementor-widget.php:130
+#: elementor/widgets/class-course-single-item-elementor-widget.php:459
+#: elementor/widgets/class-course-single-item-elementor-widget.php:492
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:310
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:343
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:445
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:478
+#: elementor/widgets/class-edus-preloader-elementor-widget.php:92
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:339
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:354
+#: elementor/widgets/class-tutor-carousel-two-elementor-widget.php:233
+#: elementor/widgets/class-tutor-carousel-two-elementor-widget.php:270
+#: elementor/widgets/class-tutor-carousel-two-elementor-widget.php:294
+msgid "Background"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:344
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:374
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:386
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:416
+#: elementor/widgets/class-event-grid-one-elementor-widget.php:184
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:216
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:394
+#: elementor/widgets/class-mission-single-item-elementor-widget.php:143
+#: elementor/widgets/class-mission-single-item-elementor-widget.php:182
+#: elementor/widgets/class-single-skill-item-elementor-widget.php:146
+#: elementor/widgets/class-single-skill-item-elementor-widget.php:175
+#: elementor/widgets/class-we-single-item-elementor-widget.php:230
+#: elementor/widgets/class-what-we-single-item-elementor-widget.php:170
+#: elementor/widgets/class-what-we-single-item-elementor-widget.php:209
+msgid "Background Color"
+msgstr ""
+
+#: elementor/widgets/class-course-category-item-elementor-widget.php:159
+msgid "Background Hover Color"
+msgstr ""
+
+#: elementor/widgets/class-image-gallery-elementor-widget.php:88
+#: elementor/widgets/class-single-skill-item-elementor-widget.php:107
+msgid "Background Image"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:275
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:284
+msgid "Become A Mentor"
+msgstr ""
+
+#: elementor/widgets/class-counterup-three-elementor-widget.php:130
+#: elementor/widgets/class-counterup-two-elementor-widget.php:91
+msgid "Black"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:87
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:87
+msgid "Blog Style System"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:36
+msgid "Blog: Slider 01"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:36
+msgid "Blog: Slider 02"
+msgstr ""
+
+#: elementor/widgets/class-tutor-carousel-two-elementor-widget.php:115
+#: elementor/widgets/class-tutor-carousel-two-elementor-widget.php:212
+msgid "Board Of Directors"
+msgstr ""
+
+#: elementor/widgets/class-counterup-three-elementor-widget.php:402
+#: elementor/widgets/class-counterup-two-elementor-widget.php:139
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:199
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:718
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:743
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:805
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:830
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:1121
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:1146
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:1184
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:1208
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:467
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:523
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:369
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:384
+msgid "Border"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:351
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:381
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:393
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:423
+#: elementor/widgets/class-course-category-item-elementor-widget.php:148
+#: elementor/widgets/class-course-single-item-elementor-widget.php:448
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:299
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:434
+msgid "Border Color"
+msgstr ""
+
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:207
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:755
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:842
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:545
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:323
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:324
+msgid "Border Radius"
+msgstr ""
+
+#: elementor/widgets/class-counterup-three-elementor-widget.php:264
+#: elementor/widgets/class-course-single-item-elementor-widget.php:408
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:259
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:394
+msgid "Box Shadow"
+msgstr ""
+
+#: elementor/widgets/class-brand-slider-elementor-widget.php:39
+msgid "Brand Carousel One"
+msgstr ""
+
+#: elementor/widgets/class-brand-slider-elementor-widget.php:105
+msgid "Brand Slider Item"
+msgstr ""
+
+#: elementor/widgets/class-we-single-item-elementor-widget.php:101
+msgid ""
+"Built purse maids cease her ham new seven among and. Pulled coming wooded "
+"tended it answer remain me be. "
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:704
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:793
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:1109
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:1172
+msgid "button background"
+msgstr ""
+
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:451
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:507
+msgid "Button Background "
+msgstr ""
+
+#: elementor/widgets/class-core-single-item-elementor-widget.php:237
+#: elementor/widgets/class-core-single-item-elementor-widget.php:287
+#: elementor/widgets/class-find-course-form-elementor-widget.php:151
+#: elementor/widgets/class-find-course-form-two-elementor-widget.php:157
+msgid "Button Background Color"
+msgstr ""
+
+#: elementor/widgets/class-find-course-form-elementor-widget.php:165
+#: elementor/widgets/class-find-course-form-two-elementor-widget.php:171
+msgid "Button Background Hover Color"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:533
+msgid "Button Between Gap"
+msgstr ""
+
+#: elementor/widgets/class-core-single-item-elementor-widget.php:230
+#: elementor/widgets/class-core-single-item-elementor-widget.php:280
+#: elementor/widgets/class-find-course-form-elementor-widget.php:158
+#: elementor/widgets/class-find-course-form-two-elementor-widget.php:164
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:429
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:485
+#: elementor/widgets/class-we-single-item-elementor-widget.php:251
+msgid "Button Color"
+msgstr ""
+
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:479
+msgid "Button Hover"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:730
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:817
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:1133
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:1196
+msgid "button hover background"
+msgstr ""
+
+#: elementor/widgets/class-find-course-form-elementor-widget.php:172
+#: elementor/widgets/class-find-course-form-two-elementor-widget.php:178
+#: elementor/widgets/class-we-single-item-elementor-widget.php:281
+msgid "Button Hover Color"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:555
+msgid "Button Left Margin"
+msgstr ""
+
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:212
+#: elementor/widgets/class-we-single-item-elementor-widget.php:111
+#: elementor/widgets/class-what-we-single-item-elementor-widget.php:136
+msgid "Button Link"
+msgstr ""
+
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:423
+msgid "Button Normal"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:359
+msgid "Button One"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:371
+msgid "Button One Link"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:680
+msgid "Button One Styling"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:364
+msgid "Button One Text"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:353
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:412
+msgid "Button Settings"
+msgstr ""
+
+#: elementor/widgets/class-find-course-form-elementor-widget.php:128
+#: elementor/widgets/class-find-course-form-two-elementor-widget.php:122
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:200
+#: elementor/widgets/class-we-single-item-elementor-widget.php:105
+#: elementor/widgets/class-what-we-single-item-elementor-widget.php:130
+msgid "Button Text"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:707
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:733
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:796
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:820
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:1112
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:1136
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:1175
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:1199
+msgid "Button Text Color"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:380
+msgid "Button Two"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:392
+msgid "Button Two Link"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:770
+msgid "Button Two Styling"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:385
+msgid "Button Two Text"
+msgstr ""
+
+#: elementor/widgets/class-core-single-item-elementor-widget.php:326
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:854
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:610
+#: elementor/widgets/class-we-single-item-elementor-widget.php:307
+msgid "Button Typography"
+msgstr ""
+
+#: elementor/widgets/class-core-single-item-elementor-widget.php:157
+msgid "Case Study List"
+msgstr ""
+
+#: wp-widgets/class-post-category-widget.php:81
+msgid "Categories"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:109
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:109
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:184
+#: elementor/widgets/class-course-single-item-elementor-widget.php:117
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:96
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:116
+#: elementor/widgets/class-event-grid-one-elementor-widget.php:126
+msgid "Category"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:337
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:379
+#: elementor/widgets/class-core-single-item-elementor-widget.php:209
+msgid "Category Color"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:467
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:509
+#: elementor/widgets/class-core-single-item-elementor-widget.php:321
+msgid "Category Typography"
+msgstr ""
+
+#: elementor/widgets/class-counterup-one-elementor-widget.php:134
+#: elementor/widgets/class-empty-div-elementor-widget.php:185
+#: elementor/widgets/class-heading-title-elementor-widget.php:138
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:152
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:161
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:217
+#: elementor/widgets/class-shape-div-elementor-widget.php:192
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:264
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:265
+msgid "Center"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:187
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:229
+#: elementor/widgets/class-course-single-item-elementor-widget.php:167
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:146
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:166
+msgid "Center Align"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:126
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:147
+msgid "CEO, Edus"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:709
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:735
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:798
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:822
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:1114
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:1138
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:1177
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:1201
+msgid "change button text color"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:638
+msgid "change dropdown border bottom color"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:628
+msgid "change dropdown color"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:654
+msgid "change dropdown hover background color"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:662
+msgid "change dropdown hover color"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:646
+msgid "change dropdown item border color"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:614
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:1083
+msgid "change menu active color"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:494
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:1069
+msgid "change menu background color"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:606
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:1075
+msgid "change menu color"
+msgstr ""
+
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:133
+msgid "Choose Package"
+msgstr ""
+
+#: elementor/widgets/class-empty-div-elementor-widget.php:97
+#: elementor/widgets/class-video-hover-elementor-widget.php:190
+msgid "Circle Color"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:423
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:438
+msgid "Client Details Top Space"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:412
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:433
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:454
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:475
+#: elementor/widgets/class-course-single-item-elementor-widget.php:440
+#: elementor/widgets/class-course-single-item-elementor-widget.php:473
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:291
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:324
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:426
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:459
+#: elementor/widgets/class-edus-preloader-elementor-widget.php:98
+msgid "Color"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:160
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:160
+#: elementor/widgets/class-course-single-item-elementor-widget.php:98
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:98
+#: elementor/widgets/class-event-grid-one-elementor-widget.php:98
+msgid "Column"
+msgstr ""
+
+#: elementor/widgets/class-contact-info-list-one-elementor-widget.php:39
+msgid "Contact Box List: 01"
+msgstr ""
+
+#: elementor/widgets/class-course-single-item-elementor-widget.php:376
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:227
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:362
+msgid "Content Background Color"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:357
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:372
+msgid "Content Border Radius"
+msgstr ""
+
+#: elementor/widgets/class-course-single-item-elementor-widget.php:330
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:181
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:316
+msgid "Content Color"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:346
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:361
+msgid "Content Padding"
+msgstr ""
+
+#: elementor/widgets/class-we-single-item-elementor-widget.php:215
+msgid "Content Styling"
+msgstr ""
+
+#: elementor/widgets/class-counterup-one-elementor-widget.php:107
+msgid "Cool Mentors"
+msgstr ""
+
+#: elementor/widgets/class-core-single-item-elementor-widget.php:39
+msgid "Core Feature Item"
+msgstr ""
+
+#: elementor/widgets/class-single-skill-item-elementor-widget.php:97
+msgid "Count Number"
+msgstr ""
+
+#: elementor/widgets/class-counterup-one-elementor-widget.php:39
+msgid "Counterup: 01"
+msgstr ""
+
+#: elementor/widgets/class-counterup-two-elementor-widget.php:36
+msgid "Counterup: 02"
+msgstr ""
+
+#: elementor/widgets/class-counterup-three-elementor-widget.php:48
+msgid "Counterup: 03"
+msgstr ""
+
+#: admin/class-custom-post-type.php:48 admin/class-custom-post-type.php:49
+#: admin/class-custom-post-type.php:53
+msgid "Course"
+msgstr ""
+
+#: admin/class-custom-post-type.php:171 admin/class-custom-post-type.php:172
+#: admin/class-custom-post-type.php:173
+msgid "Course Category"
+msgstr ""
+
+#: elementor/widgets/class-course-category-item-elementor-widget.php:39
+msgid "Course Category Item : 01"
+msgstr ""
+
+#: admin/class-custom-post-type.php:63
+msgid "Course Image"
+msgstr ""
+
+#: elementor/widgets/class-course-single-item-elementor-widget.php:36
+msgid "Course Item 01"
+msgstr ""
+
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:36
+msgid "Course Item 02"
+msgstr ""
+
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:39
+msgid "Course Item 03"
+msgstr ""
+
+#: admin/class-custom-post-type.php:54
+msgid "Courses"
+msgstr ""
+
+#: elementor/widgets/class-course-single-item-elementor-widget.php:86
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:86
+msgid "Courses Style System"
+msgstr ""
+
+#: wp-widgets/class-post-category-widget.php:93
+#: wp-widgets/class-recent-post-widget.php:98
+#: wp-widgets/class-service-category-widget.php:76
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:131
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:131
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:206
+#: elementor/widgets/class-course-single-item-elementor-widget.php:139
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:118
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:138
+#: elementor/widgets/class-event-grid-one-elementor-widget.php:148
+msgid "Date"
+msgstr ""
+
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:150
+msgid "Default Charge"
+msgstr ""
+
+#: wp-widgets/class-post-category-widget.php:88
+#: wp-widgets/class-recent-post-widget.php:93
+#: wp-widgets/class-service-category-widget.php:71
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:120
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:120
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:195
+#: elementor/widgets/class-course-single-item-elementor-widget.php:128
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:107
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:127
+#: elementor/widgets/class-event-grid-one-elementor-widget.php:137
+msgid "Descending"
+msgstr ""
+
+#: elementor/widgets/class-accordion-elementor-widget.php:95
+#: elementor/widgets/class-contact-info-list-one-elementor-widget.php:109
+#: elementor/widgets/class-core-single-item-elementor-widget.php:132
+#: elementor/widgets/class-heading-title-elementor-widget.php:120
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:135
+#: elementor/widgets/class-mission-single-item-elementor-widget.php:92
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:150
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:151
+#: elementor/widgets/class-we-single-item-elementor-widget.php:97
+#: elementor/widgets/class-what-we-single-item-elementor-widget.php:124
+msgid "Description"
+msgstr ""
+
+#: elementor/widgets/class-contact-info-list-one-elementor-widget.php:150
+#: elementor/widgets/class-core-single-item-elementor-widget.php:223
+#: elementor/widgets/class-event-grid-one-elementor-widget.php:240
+#: elementor/widgets/class-heading-title-elementor-widget.php:205
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:453
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:468
+#: elementor/widgets/class-tutor-carousel-one-elementor-widget.php:188
+#: elementor/widgets/class-we-single-item-elementor-widget.php:244
+#: elementor/widgets/class-we-single-item-elementor-widget.php:274
+msgid "Description Color"
+msgstr ""
+
+#: elementor/widgets/class-heading-title-elementor-widget.php:112
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:126
+msgid "Description Show/Hide"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:377
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:392
+msgid "Description Top Gap"
+msgstr ""
+
+#: elementor/widgets/class-contact-info-list-one-elementor-widget.php:174
+#: elementor/widgets/class-core-single-item-elementor-widget.php:316
+#: elementor/widgets/class-event-grid-one-elementor-widget.php:268
+#: elementor/widgets/class-heading-title-elementor-widget.php:254
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:486
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:501
+#: elementor/widgets/class-tutor-carousel-one-elementor-widget.php:250
+#: elementor/widgets/class-we-single-item-elementor-widget.php:312
+msgid "Description Typography"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:123
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:144
+#: elementor/widgets/class-tutor-carousel-two-elementor-widget.php:112
+msgid "Designation"
+msgstr ""
+
+#: elementor/widgets/class-image-gallery-elementor-widget.php:152
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:460
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:475
+#: elementor/widgets/class-tutor-carousel-one-elementor-widget.php:181
+#: elementor/widgets/class-tutor-carousel-two-elementor-widget.php:246
+msgid "Designation Color"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:117
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:138
+msgid "Designation Show/Hide"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:491
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:506
+#: elementor/widgets/class-tutor-carousel-one-elementor-widget.php:245
+#: elementor/widgets/class-tutor-carousel-two-elementor-widget.php:321
+msgid "Designation Typography"
+msgstr ""
+
+#: elementor/widgets/class-what-we-single-item-elementor-widget.php:127
+msgid ""
+"Discover UWE Bristol’s first-class learning facilities, vibrant student life,"
+" beautiful campuses."
+msgstr ""
+
+#: wp-widgets/class-about-me-two-widget.php:19
+#: wp-widgets/class-about-me-widget.php:19
+msgid "Display about me widget"
+msgstr ""
+
+#: wp-widgets/class-about-us-two-widget.php:19
+#: wp-widgets/class-about-us-widget.php:19
+#: wp-widgets/class-widget-nav-menu.php:19
+msgid "Display about us widget"
+msgstr ""
+
+#: wp-widgets/class-contact-info-widget.php:17
+msgid "Display contact info widget"
+msgstr ""
+
+#: wp-widgets/class-post-category-widget.php:19
+msgid "Display Post categories"
+msgstr ""
+
+#: wp-widgets/class-service-category-widget.php:17
+msgid "Display service categories"
+msgstr ""
+
+#: wp-widgets/class-service-doc-widget.php:19
+msgid "Display Service Document widget"
+msgstr ""
+
+#: wp-widgets/class-social-share-widget.php:19
+msgid "Display Social Share widget"
+msgstr ""
+
+#: wp-widgets/class-recent-post-widget.php:21
+msgid "Display your recent posts, with a thumbnail."
+msgstr ""
+
+#: wp-widgets/class-service-doc-widget.php:24
+msgid "Document Icon"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:636
+msgid "Dropdown Border Bottom Color"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:626
+msgid "Dropdown Color"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:652
+msgid "Dropdown Hover Background Color"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:660
+msgid "Dropdown Hover Color"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:644
+msgid "Dropdown Item Border Color"
+msgstr ""
+
+#: elementor/widgets/class-accordion-elementor-widget.php:98
+msgid ""
+"Duis aute irure dolor reprehenderit in voluptate velit essle cillum dolore "
+"eu fugiat nulla pariatur. Excepteur sint ocaec at cupdatat proident suntin "
+"culpa qui officia deserunt mol anim id esa laborum perspiciat."
+msgstr ""
+
+#: admin/class-custom-post-type.php:58
+msgid "Edit Course"
+msgstr ""
+
+#: admin/class-custom-post-type.php:93
+msgid "Edit Event"
+msgstr ""
+
+#: admin/class-custom-post-type.php:128
+msgid "Edit Mentor"
+msgstr ""
+
+#: admin/class-menu-page.php:62
+msgid "Edus"
+msgstr ""
+
+#. Name of the plugin
+msgid "Edus Master"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:36
+msgid "Edus Navbar Style 01"
+msgstr ""
+
+#: admin/class-menu-page.php:61
+msgid "Edus Page"
+msgstr ""
+
+#: elementor/class-elementor-widget-init.php:57
+msgid "Edus Widgets"
+msgstr ""
+
+#: wp-widgets/class-about-me-widget.php:17
+msgid "Edus: About Me"
+msgstr ""
+
+#: wp-widgets/class-about-me-two-widget.php:17
+msgid "Edus: About Me 02"
+msgstr ""
+
+#: wp-widgets/class-about-us-widget.php:17
+msgid "Edus: About Us"
+msgstr ""
+
+#: wp-widgets/class-about-us-two-widget.php:17
+msgid "Edus: About Us Two"
+msgstr ""
+
+#: wp-widgets/class-contact-info-widget.php:16
+msgid "Edus: Contact Info"
+msgstr ""
+
+#: wp-widgets/class-widget-nav-menu.php:17
+msgid "Edus: Nav Menu"
+msgstr ""
+
+#: wp-widgets/class-post-category-widget.php:18
+msgid "Edus: Post Category"
+msgstr ""
+
+#: wp-widgets/class-recent-post-widget.php:20
+msgid "Edus: Recent Posts with Thumbnails"
+msgstr ""
+
+#: wp-widgets/class-service-category-widget.php:16
+msgid "Edus: Service Category"
+msgstr ""
+
+#: wp-widgets/class-service-doc-widget.php:17
+msgid "Edus: Service Document"
+msgstr ""
+
+#: wp-widgets/class-social-share-widget.php:17
+msgid "edus: Social Share"
+msgstr ""
+
+#: elementor/widgets/class-empty-div-elementor-widget.php:39
+msgid "Empty Div"
+msgstr ""
+
+#: elementor/widgets/class-heading-title-elementor-widget.php:122
+msgid "enter  description."
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:274
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:333
+msgid "enter  title."
+msgstr ""
+
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:222
+#: elementor/widgets/class-we-single-item-elementor-widget.php:116
+#: elementor/widgets/class-what-we-single-item-elementor-widget.php:141
+msgid "enter button link"
+msgstr ""
+
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:206
+#: elementor/widgets/class-we-single-item-elementor-widget.php:108
+#: elementor/widgets/class-what-we-single-item-elementor-widget.php:133
+msgid "enter button text"
+msgstr ""
+
+#: elementor/widgets/class-counterup-one-elementor-widget.php:114
+#: elementor/widgets/class-counterup-three-elementor-widget.php:200
+#: elementor/widgets/class-counterup-two-elementor-widget.php:114
+msgid "enter counterup number"
+msgstr ""
+
+#: elementor/widgets/class-counterup-one-elementor-widget.php:120
+#: elementor/widgets/class-counterup-three-elementor-widget.php:212
+msgid "enter counterup sign"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:152
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:153
+#: elementor/widgets/class-what-we-single-item-elementor-widget.php:126
+msgid "enter description"
+msgstr ""
+
+#: elementor/widgets/class-contact-info-list-one-elementor-widget.php:111
+msgid "Enter description "
+msgstr ""
+
+#: elementor/widgets/class-we-single-item-elementor-widget.php:100
+msgid "enter description."
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:125
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:146
+#: elementor/widgets/class-tutor-carousel-two-elementor-widget.php:114
+msgid "enter designation"
+msgstr ""
+
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:235
+msgid "enter feature item"
+msgstr ""
+
+#: elementor/widgets/class-image-gallery-elementor-widget.php:99
+#: elementor/widgets/class-image-gallery-elementor-widget.php:110
+msgid "enter image."
+msgstr ""
+
+#: elementor/widgets/class-core-single-item-elementor-widget.php:146
+#: elementor/widgets/class-course-category-item-elementor-widget.php:106
+#: elementor/widgets/class-footer-menu-list-elementor-widget.php:155
+#: elementor/widgets/class-mission-single-item-elementor-widget.php:113
+msgid "enter link"
+msgstr ""
+
+#: elementor/widgets/class-footer-menu-list-elementor-widget.php:134
+msgid "enter menu"
+msgstr ""
+
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:194
+msgid "enter month"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:112
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:133
+#: elementor/widgets/class-tutor-carousel-two-elementor-widget.php:106
+msgid "enter name"
+msgstr ""
+
+#: elementor/widgets/class-single-skill-item-elementor-widget.php:100
+msgid "enter number."
+msgstr ""
+
+#: elementor/widgets/class-footer-menu-list-elementor-widget.php:124
+msgid "enter paragraph"
+msgstr ""
+
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:170
+msgid "enter price"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:99
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:99
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:174
+msgid "enter read button text"
+msgstr ""
+
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:182
+msgid "enter sign"
+msgstr ""
+
+#: elementor/widgets/class-what-we-single-item-elementor-widget.php:119
+msgid "enter students"
+msgstr ""
+
+#: elementor/widgets/class-accordion-elementor-widget.php:97
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:137
+msgid "enter text."
+msgstr ""
+
+#: elementor/widgets/class-contact-info-list-one-elementor-widget.php:105
+msgid "Enter title"
+msgstr ""
+
+#: elementor/widgets/class-counterup-one-elementor-widget.php:108
+#: elementor/widgets/class-counterup-three-elementor-widget.php:188
+#: elementor/widgets/class-counterup-two-elementor-widget.php:108
+#: elementor/widgets/class-footer-menu-list-elementor-widget.php:103
+#: elementor/widgets/class-image-gallery-elementor-widget.php:121
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:158
+msgid "enter title"
+msgstr ""
+
+#: elementor/widgets/class-accordion-elementor-widget.php:89
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:97
+#: elementor/widgets/class-single-skill-item-elementor-widget.php:90
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:97
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:97
+#: elementor/widgets/class-we-single-item-elementor-widget.php:90
+#: elementor/widgets/class-what-we-single-item-elementor-widget.php:88
+#: elementor/widgets/class-what-we-single-item-elementor-widget.php:99
+msgid "enter title."
+msgstr ""
+
+#: elementor/widgets/class-core-single-item-elementor-widget.php:111
+#: elementor/widgets/class-heading-title-elementor-widget.php:106
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:126
+msgid "enter title. use {c} color text {/c} for color text"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:263
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:322
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:431
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:469
+#: elementor/widgets/class-tutor-carousel-two-elementor-widget.php:133
+#: elementor/widgets/class-tutor-carousel-two-elementor-widget.php:154
+#: elementor/widgets/class-tutor-carousel-two-elementor-widget.php:175
+#: elementor/widgets/class-tutor-carousel-two-elementor-widget.php:196
+msgid "enter URL"
+msgstr ""
+
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:106
+#: elementor/widgets/class-video-hover-elementor-widget.php:134
+msgid "enter url."
+msgstr ""
+
+#: wp-widgets/class-widget-nav-menu.php:46
+msgid "Enter Your Header Paragraph"
+msgstr ""
+
+#: wp-widgets/class-about-me-widget.php:29
+#: wp-widgets/class-social-share-widget.php:24
+#: wp-widgets/class-widget-nav-menu.php:40
+msgid "Enter Your Header Title"
+msgstr ""
+
+#: wp-widgets/class-about-me-two-widget.php:29
+#: wp-widgets/class-about-me-widget.php:35
+msgid "Enter Your Name"
+msgstr ""
+
+#: wp-widgets/class-about-us-widget.php:48
+msgid "Enter Your Phone"
+msgstr ""
+
+#: wp-widgets/class-service-doc-widget.php:35
+msgid "Enter Your Text"
+msgstr ""
+
+#: wp-widgets/class-about-me-widget.php:60
+#: wp-widgets/class-service-doc-widget.php:41
+#: wp-widgets/class-social-share-widget.php:41
+#: wp-widgets/class-widget-nav-menu.php:64
+msgid "Enter Your Ulr"
+msgstr ""
+
+#: admin/class-custom-post-type.php:83 admin/class-custom-post-type.php:84
+#: admin/class-custom-post-type.php:88
+msgid "Event"
+msgstr ""
+
+#: admin/class-custom-post-type.php:194 admin/class-custom-post-type.php:195
+#: admin/class-custom-post-type.php:196
+msgid "Event Category"
+msgstr ""
+
+#: admin/class-custom-post-type.php:98
+msgid "Event Image"
+msgstr ""
+
+#: elementor/widgets/class-event-grid-one-elementor-widget.php:39
+msgid "Event: Grid 01"
+msgstr ""
+
+#: admin/class-custom-post-type.php:89
+msgid "Events"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:139
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:139
+#: elementor/widgets/class-event-grid-one-elementor-widget.php:156
+msgid "Excerpt Length"
+msgstr ""
+
+#: elementor/widgets/class-accordion-elementor-widget.php:132
+msgid "Expanded Style"
+msgstr ""
+
+#: elementor/widgets/class-single-skill-item-elementor-widget.php:91
+msgid "Experience"
+msgstr ""
+
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:229
+msgid "Feature Item"
+msgstr ""
+
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:319
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:387
+msgid "Features Color"
+msgstr ""
+
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:600
+msgid "Features Typography"
+msgstr ""
+
+#: elementor/widgets/class-find-course-form-elementor-widget.php:51
+msgid "Find Course From: 01"
+msgstr ""
+
+#: elementor/widgets/class-find-course-form-two-elementor-widget.php:48
+msgid "Find Course From: 02"
+msgstr ""
+
+#: elementor/widgets/class-find-course-form-elementor-widget.php:130
+#: elementor/widgets/class-find-course-form-two-elementor-widget.php:124
+msgid "Find Courses"
+msgstr ""
+
+#: elementor/class-elementor-widget-init.php:130
+#: inc/class-edus-master-init.php:450
+msgid "Flaticon"
+msgstr ""
+
+#: elementor/widgets/class-footer-menu-list-elementor-widget.php:226
+msgid "Footer Margin Top"
+msgstr ""
+
+#: elementor/widgets/class-footer-menu-list-elementor-widget.php:39
+msgid "Footer Menu"
+msgstr ""
+
+#: elementor/widgets/class-footer-menu-list-elementor-widget.php:93
+msgid "Footer Top Conten"
+msgstr ""
+
+#: wp-widgets/class-about-me-two-widget.php:42
+msgid "Founder, Cixix Co."
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:165
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:166
+msgid "Founder, Miranda Co."
+msgstr ""
+
+#: elementor/widgets/class-footer-menu-list-elementor-widget.php:125
+msgid "Gave read use way make spot"
+msgstr ""
+
+#: wp-widgets/class-widget-nav-menu.php:47
+msgid "Gave read use way make spot "
+msgstr ""
+
+#: elementor/widgets/class-accordion-elementor-widget.php:80
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:80
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:153
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:80
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:153
+#: elementor/widgets/class-brand-slider-elementor-widget.php:91
+#: elementor/widgets/class-contact-info-list-one-elementor-widget.php:86
+#: elementor/widgets/class-core-single-item-elementor-widget.php:91
+#: elementor/widgets/class-counterup-one-elementor-widget.php:86
+#: elementor/widgets/class-counterup-three-elementor-widget.php:109
+#: elementor/widgets/class-counterup-two-elementor-widget.php:80
+#: elementor/widgets/class-course-category-item-elementor-widget.php:91
+#: elementor/widgets/class-course-single-item-elementor-widget.php:79
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:85
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:79
+#: elementor/widgets/class-edus-preloader-elementor-widget.php:86
+#: elementor/widgets/class-empty-div-elementor-widget.php:91
+#: elementor/widgets/class-event-grid-one-elementor-widget.php:91
+#: elementor/widgets/class-find-course-form-elementor-widget.php:113
+#: elementor/widgets/class-find-course-form-two-elementor-widget.php:107
+#: elementor/widgets/class-footer-menu-list-elementor-widget.php:86
+#: elementor/widgets/class-heading-title-elementor-widget.php:84
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:80
+#: elementor/widgets/class-image-gallery-elementor-widget.php:80
+#: elementor/widgets/class-mission-single-item-elementor-widget.php:80
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:84
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:109
+#: elementor/widgets/class-shape-div-elementor-widget.php:91
+#: elementor/widgets/class-single-skill-item-elementor-widget.php:80
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:84
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:84
+#: elementor/widgets/class-tutor-carousel-two-elementor-widget.php:86
+#: elementor/widgets/class-video-hover-elementor-widget.php:116
+#: elementor/widgets/class-video-hover-elementor-widget.php:179
+#: elementor/widgets/class-we-single-item-elementor-widget.php:80
+#: elementor/widgets/class-what-we-single-item-elementor-widget.php:80
+msgid "General Settings"
+msgstr ""
+
+#: elementor/widgets/class-we-single-item-elementor-widget.php:91
+msgid "Get a free trail option"
+msgstr ""
+
+#: inc/class-edus-master-helper-functions.php:385
+msgid "Get Enrolled"
+msgstr ""
+
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:204
+msgid "Get Started"
+msgstr ""
+
+#: elementor/widgets/class-core-single-item-elementor-widget.php:112
+msgid "Graduate Research With Us Offers."
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:91
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:91
+#: elementor/widgets/class-course-single-item-elementor-widget.php:90
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:90
+msgid "Grid System"
+msgstr ""
+
+#: elementor/widgets/class-heading-title-elementor-widget.php:36
+msgid "Heading Title: 01"
+msgstr ""
+
+#: elementor/widgets/class-counterup-three-elementor-widget.php:278
+msgid "Height"
+msgstr ""
+
+#: wp-widgets/class-widget-nav-menu.php:71
+msgid "Home"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:362
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:429
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:404
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:471
+#: elementor/widgets/class-course-single-item-elementor-widget.php:364
+#: elementor/widgets/class-course-single-item-elementor-widget.php:468
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:215
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:319
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:350
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:454
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:390
+#: elementor/widgets/class-mission-single-item-elementor-widget.php:170
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:725
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:812
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:1128
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:1191
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:341
+#: elementor/widgets/class-single-skill-item-elementor-widget.php:157
+#: elementor/widgets/class-tutor-carousel-one-elementor-widget.php:220
+#: elementor/widgets/class-tutor-carousel-two-elementor-widget.php:287
+#: elementor/widgets/class-video-hover-elementor-widget.php:460
+#: elementor/widgets/class-we-single-item-elementor-widget.php:194
+#: elementor/widgets/class-we-single-item-elementor-widget.php:263
+#: elementor/widgets/class-what-we-single-item-elementor-widget.php:197
+msgid "Hover"
+msgstr ""
+
+#: elementor/widgets/class-accordion-elementor-widget.php:90
+#: elementor/widgets/class-accordion-elementor-widget.php:107
+msgid "How to import my whole data?"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://irtech.biz/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://themeforest.net/user/ir-tech/portfolio"
+msgstr ""
+
+#: wp-widgets/class-about-me-widget.php:54
+#: wp-widgets/class-about-us-widget.php:42
+#: wp-widgets/class-service-doc-widget.php:29
+#: wp-widgets/class-social-share-widget.php:35
+#: wp-widgets/class-widget-nav-menu.php:52
+#: elementor/widgets/class-contact-info-list-one-elementor-widget.php:93
+#: elementor/widgets/class-course-category-item-elementor-widget.php:112
+#: elementor/widgets/class-footer-menu-list-elementor-widget.php:110
+#: elementor/widgets/class-footer-menu-list-elementor-widget.php:141
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:115
+#: elementor/widgets/class-mission-single-item-elementor-widget.php:99
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:309
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:113
+#: elementor/widgets/class-video-hover-elementor-widget.php:152
+#: elementor/widgets/class-we-single-item-elementor-widget.php:122
+msgid "Icon"
+msgstr ""
+
+#: elementor/widgets/class-accordion-elementor-widget.php:159
+#: elementor/widgets/class-accordion-elementor-widget.php:205
+#: elementor/widgets/class-contact-info-list-one-elementor-widget.php:128
+#: elementor/widgets/class-core-single-item-elementor-widget.php:200
+#: elementor/widgets/class-core-single-item-elementor-widget.php:273
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:343
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:401
+#: elementor/widgets/class-video-hover-elementor-widget.php:439
+#: elementor/widgets/class-video-hover-elementor-widget.php:482
+msgid "Icon Background Color"
+msgstr ""
+
+#: elementor/widgets/class-video-hover-elementor-widget.php:425
+msgid "Icon Border Color"
+msgstr ""
+
+#: elementor/widgets/class-we-single-item-elementor-widget.php:170
+msgid "Icon Bottom Space"
+msgstr ""
+
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:36
+msgid "Icon Box: 01"
+msgstr ""
+
+#: elementor/widgets/class-accordion-elementor-widget.php:152
+#: elementor/widgets/class-accordion-elementor-widget.php:198
+#: elementor/widgets/class-contact-info-list-one-elementor-widget.php:121
+#: elementor/widgets/class-core-single-item-elementor-widget.php:184
+#: elementor/widgets/class-core-single-item-elementor-widget.php:244
+#: elementor/widgets/class-core-single-item-elementor-widget.php:259
+#: elementor/widgets/class-counterup-one-elementor-widget.php:156
+#: elementor/widgets/class-counterup-three-elementor-widget.php:411
+#: elementor/widgets/class-course-category-item-elementor-widget.php:141
+#: elementor/widgets/class-course-single-item-elementor-widget.php:323
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:174
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:309
+#: elementor/widgets/class-footer-menu-list-elementor-widget.php:250
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:336
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:408
+#: elementor/widgets/class-mission-single-item-elementor-widget.php:136
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:340
+#: elementor/widgets/class-tutor-carousel-one-elementor-widget.php:209
+#: elementor/widgets/class-tutor-carousel-one-elementor-widget.php:224
+#: elementor/widgets/class-tutor-carousel-two-elementor-widget.php:276
+#: elementor/widgets/class-tutor-carousel-two-elementor-widget.php:300
+#: elementor/widgets/class-video-hover-elementor-widget.php:204
+#: elementor/widgets/class-video-hover-elementor-widget.php:218
+#: elementor/widgets/class-video-hover-elementor-widget.php:411
+#: elementor/widgets/class-video-hover-elementor-widget.php:468
+#: elementor/widgets/class-we-single-item-elementor-widget.php:153
+#: elementor/widgets/class-what-we-single-item-elementor-widget.php:163
+msgid "Icon Color"
+msgstr ""
+
+#: elementor/widgets/class-course-category-item-elementor-widget.php:174
+#: elementor/widgets/class-course-single-item-elementor-widget.php:369
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:220
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:355
+#: elementor/widgets/class-mission-single-item-elementor-widget.php:175
+#: elementor/widgets/class-we-single-item-elementor-widget.php:199
+#: elementor/widgets/class-what-we-single-item-elementor-widget.php:202
+msgid "Icon Hover Color"
+msgstr ""
+
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:303
+msgid "Icon Margin Bottom"
+msgstr ""
+
+#: elementor/widgets/class-footer-menu-list-elementor-widget.php:200
+msgid "Icon Margin Right"
+msgstr ""
+
+#: elementor/widgets/class-we-single-item-elementor-widget.php:161
+msgid "Icon Shape Color"
+msgstr ""
+
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:277
+msgid "Icon Size"
+msgstr ""
+
+#: elementor/widgets/class-we-single-item-elementor-widget.php:137
+msgid "Icon Styling"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:335
+msgid "Icon Styling Settings"
+msgstr ""
+
+#: elementor/widgets/class-core-single-item-elementor-widget.php:192
+#: elementor/widgets/class-core-single-item-elementor-widget.php:266
+msgid "Icon Title Color"
+msgstr ""
+
+#: wp-widgets/class-post-category-widget.php:91
+#: wp-widgets/class-recent-post-widget.php:96
+#: wp-widgets/class-service-category-widget.php:74
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:129
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:129
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:204
+#: elementor/widgets/class-course-single-item-elementor-widget.php:137
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:116
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:136
+#: elementor/widgets/class-event-grid-one-elementor-widget.php:146
+msgid "ID"
+msgstr ""
+
+#: elementor/widgets/class-brand-slider-elementor-widget.php:99
+#: elementor/widgets/class-core-single-item-elementor-widget.php:126
+#: elementor/widgets/class-image-gallery-elementor-widget.php:97
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:95
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:95
+#: elementor/widgets/class-tutor-carousel-two-elementor-widget.php:93
+#: elementor/widgets/class-what-we-single-item-elementor-widget.php:86
+msgid "Image"
+msgstr ""
+
+#: elementor/widgets/class-image-gallery-elementor-widget.php:36
+msgid "Image Gallery: 01"
+msgstr ""
+
+#: elementor/widgets/class-core-single-item-elementor-widget.php:99
+msgid "Image Position"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:104
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:104
+msgid "Image Show/Hide"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:295
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:296
+msgid "Image Styling Settings"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:301
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:302
+msgid "Image Top Space"
+msgstr ""
+
+#: wp-widgets/class-contact-info-widget.php:40
+msgid "Info"
+msgstr ""
+
+#. Author of the plugin
+msgid "Ir-Tech"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:206
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:248
+#: elementor/widgets/class-brand-slider-elementor-widget.php:129
+#: elementor/widgets/class-course-single-item-elementor-widget.php:187
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:185
+#: elementor/widgets/class-tutor-carousel-one-elementor-widget.php:94
+msgid "Items"
+msgstr ""
+
+#: elementor/widgets/class-core-single-item-elementor-widget.php:139
+msgid ""
+"Joe Pulizzi published an epic post, Why Education is a Powerful Content "
+"Marketing Strategy: 17 Examples."
+msgstr ""
+
+#: elementor/widgets/class-counterup-three-elementor-widget.php:210
+msgid "k+"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:113
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:134
+msgid "Lara Croft"
+msgstr ""
+
+#: wp-widgets/class-widget-nav-menu.php:41
+#: elementor/widgets/class-footer-menu-list-elementor-widget.php:104
+msgid "Latest Courses"
+msgstr ""
+
+#: elementor/widgets/class-mission-single-item-elementor-widget.php:89
+msgid "Learn Mission Us"
+msgstr ""
+
+#: wp-widgets/class-contact-info-widget.php:46
+msgid "Leave it blank if you don't want to show this info"
+msgstr ""
+
+#: elementor/widgets/class-counterup-one-elementor-widget.php:130
+#: elementor/widgets/class-empty-div-elementor-widget.php:181
+#: elementor/widgets/class-heading-title-elementor-widget.php:134
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:148
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:330
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:157
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:213
+#: elementor/widgets/class-shape-div-elementor-widget.php:188
+msgid "Left"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:186
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:228
+#: elementor/widgets/class-course-single-item-elementor-widget.php:166
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:145
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:165
+msgid "Left Align"
+msgstr ""
+
+#: elementor/widgets/class-core-single-item-elementor-widget.php:103
+msgid "Left Image"
+msgstr ""
+
+#: admin/class-menu-page.php:70
+msgid "License"
+msgstr ""
+
+#: admin/partials/license-page.php:2
+msgid "License Settings"
+msgstr ""
+
+#: admin/class-menu-page.php:147
+msgid "License Your Theme From \"Edus > License\" To Import Demo Data"
+msgstr ""
+
+#: admin/partials/license-page.php:3
+msgid ""
+"License your theme to access theme demo data. without license you can do "
+"everything except import demo data."
+msgstr ""
+
+#: admin/partials/license-page.php:6
+msgid "License Your Theme To Import Demo Data"
+msgstr ""
+
+#: elementor/widgets/class-core-single-item-elementor-widget.php:144
+#: elementor/widgets/class-course-category-item-elementor-widget.php:104
+#: elementor/widgets/class-footer-menu-list-elementor-widget.php:153
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:104
+#: elementor/widgets/class-mission-single-item-elementor-widget.php:111
+#: elementor/widgets/class-video-hover-elementor-widget.php:130
+msgid "Link"
+msgstr ""
+
+#: elementor/widgets/class-single-skill-item-elementor-widget.php:117
+msgid "List Menu Styling Settings"
+msgstr ""
+
+#: elementor/widgets/class-single-skill-item-elementor-widget.php:190
+msgid "List Menu Typography Styling Settings"
+msgstr ""
+
+#: elementor/widgets/class-event-grid-one-elementor-widget.php:206
+msgid "Location Color"
+msgstr ""
+
+#: elementor/widgets/class-event-grid-one-elementor-widget.php:213
+msgid "Location Icon Color"
+msgstr ""
+
+#: elementor/widgets/class-event-grid-one-elementor-widget.php:262
+msgid "Location Typography"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:366
+msgid "Login"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:133
+msgid "Logo"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:98
+msgid "Logo Position"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:144
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:144
+#: elementor/widgets/class-event-grid-one-elementor-widget.php:161
+msgid "Long"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:215
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:257
+#: elementor/widgets/class-brand-slider-elementor-widget.php:161
+#: elementor/widgets/class-course-single-item-elementor-widget.php:196
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:194
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:213
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:214
+#: elementor/widgets/class-tutor-carousel-one-elementor-widget.php:126
+msgid "Loop"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:153
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:154
+msgid ""
+"Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore ma gna aliqua. Ut enim ad minim ve "
+"niam, quis nostrud exercitation ullamco lab oris nisi ut aliquip ex ea "
+"commodo cons equat. Duis aute irure dolor in reprehe nderit in voluptate "
+"velit esse."
+msgstr ""
+
+#: elementor/widgets/class-tutor-carousel-two-elementor-widget.php:213
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod "
+"tempor incidi dunt ut labore et dolore. "
+msgstr ""
+
+#: elementor/widgets/class-accordion-elementor-widget.php:108
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, "
+"quis nostrud exercitation ullamco lab oris nisi ut aliquip ex ea commodo "
+"consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse "
+"cillum."
+msgstr ""
+
+#: wp-widgets/class-about-me-widget.php:42
+#: wp-widgets/class-about-us-widget.php:30
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod "
+"tempor incididunt ut labore."
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:148
+msgid "make navbar absolute"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:243
+msgid "make navbar menu"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:411
+msgid "make navbar Offer Button"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:301
+msgid "make navbar right nav"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:449
+msgid "make navbar social icon"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:91
+msgid "make navbar topbar"
+msgstr ""
+
+#: elementor/widgets/class-brand-slider-elementor-widget.php:138
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:193
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:194
+#: elementor/widgets/class-tutor-carousel-one-elementor-widget.php:103
+msgid "Margin"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:115
+msgid "Margin Top Navigation"
+msgstr ""
+
+#: elementor/widgets/class-tutor-carousel-two-elementor-widget.php:107
+#: elementor/widgets/class-tutor-carousel-two-elementor-widget.php:211
+msgid "Mario Hedge"
+msgstr ""
+
+#: admin/class-custom-post-type.php:118 admin/class-custom-post-type.php:119
+#: admin/class-custom-post-type.php:123
+msgid "Mentor"
+msgstr ""
+
+#: admin/class-custom-post-type.php:217 admin/class-custom-post-type.php:218
+#: admin/class-custom-post-type.php:219
+msgid "Mentor Category"
+msgstr ""
+
+#: admin/class-custom-post-type.php:133
+msgid "Mentor Image"
+msgstr ""
+
+#: admin/class-custom-post-type.php:124
+msgid "Mentors"
+msgstr ""
+
+#: elementor/widgets/class-footer-menu-list-elementor-widget.php:132
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:141
+msgid "Menu"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:612
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:1081
+msgid "Menu Active Color"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:493
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:1068
+msgid "Menu Background Color"
+msgstr ""
+
+#: elementor/widgets/class-footer-menu-list-elementor-widget.php:257
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:604
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:1073
+msgid "Menu Color"
+msgstr ""
+
+#: elementor/widgets/class-core-single-item-elementor-widget.php:120
+msgid "Menu Item"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:511
+msgid "Menu Item Gap"
+msgstr ""
+
+#: elementor/widgets/class-footer-menu-list-elementor-widget.php:162
+msgid "Menu List Items"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:487
+msgid "Menu Styling"
+msgstr ""
+
+#: elementor/widgets/class-footer-menu-list-elementor-widget.php:292
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:672
+msgid "Menu Typography"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:103
+msgid "Menubar"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:164
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:165
+msgid "Miranda H.Halim"
+msgstr ""
+
+#: elementor/widgets/class-mission-single-item-elementor-widget.php:36
+msgid "Mission: Item 01"
+msgstr ""
+
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:188
+msgid "Month"
+msgstr ""
+
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:117
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:137
+msgid "Monthly Charge"
+msgstr ""
+
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:119
+msgid "Monthly Charge "
+msgstr ""
+
+#: wp-widgets/class-recent-post-widget.php:100
+msgid "Most Comment"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:133
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:133
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:208
+#: elementor/widgets/class-course-single-item-elementor-widget.php:141
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:120
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:140
+#: elementor/widgets/class-event-grid-one-elementor-widget.php:150
+msgid "Most Comments"
+msgstr ""
+
+#: elementor/widgets/class-mission-single-item-elementor-widget.php:94
+msgid "Move with a great team, its better"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:110
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:131
+#: elementor/widgets/class-tutor-carousel-two-elementor-widget.php:104
+msgid "Name"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:445
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:460
+#: elementor/widgets/class-tutor-carousel-one-elementor-widget.php:174
+#: elementor/widgets/class-tutor-carousel-two-elementor-widget.php:239
+msgid "Name Color"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:481
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:496
+#: elementor/widgets/class-tutor-carousel-one-elementor-widget.php:240
+#: elementor/widgets/class-tutor-carousel-two-elementor-widget.php:316
+msgid "Name Typography"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:258
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:300
+#: elementor/widgets/class-course-single-item-elementor-widget.php:239
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:237
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:229
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:230
+msgid "Nav"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:1006
+msgid "Nav bar Right Menu Styling"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:278
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:320
+#: elementor/widgets/class-course-single-item-elementor-widget.php:271
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:257
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:238
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:239
+msgid "Nav Left Icon"
+msgstr ""
+
+#: wp-widgets/class-widget-nav-menu.php:58
+msgid "Nav Menu"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:1013
+msgid "Nav Menu Item Right Margin"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:279
+msgid "Nav Menu Items"
+msgstr ""
+
+#: elementor/widgets/class-course-single-item-elementor-widget.php:247
+msgid "Nav Position"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:300
+msgid "Nav Right"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:266
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:308
+#: elementor/widgets/class-course-single-item-elementor-widget.php:259
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:245
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:250
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:251
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:252
+msgid "Nav Right Icon"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:1037
+msgid "Nav Right Menu Color"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:1051
+msgid "Nav Right Menu Hover Color"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:1044
+msgid "Nav Right Menu Icon Color"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:338
+msgid "Nav Right Menu Items"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:294
+msgid "Nav Right Menu Settings"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:272
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:331
+msgid "Nav Title"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:261
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:320
+msgid "Nav URL"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:577
+msgid "Navigation Margin Top"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:110
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:122
+msgid "Navigation Shape"
+msgstr ""
+
+#: wp-widgets/class-social-share-widget.php:25
+msgid "Never Miss News"
+msgstr ""
+
+#: wp-widgets/class-recent-post-widget.php:109
+msgid "No Of Posts"
+msgstr ""
+
+#: elementor/widgets/class-accordion-elementor-widget.php:178
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:326
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:408
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:368
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:450
+#: elementor/widgets/class-core-single-item-elementor-widget.php:255
+#: elementor/widgets/class-course-single-item-elementor-widget.php:251
+#: elementor/widgets/class-course-single-item-elementor-widget.php:319
+#: elementor/widgets/class-course-single-item-elementor-widget.php:434
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:170
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:285
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:305
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:420
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:180
+#: elementor/widgets/class-mission-single-item-elementor-widget.php:132
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:699
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:788
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:1104
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:1167
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:273
+#: elementor/widgets/class-single-skill-item-elementor-widget.php:128
+#: elementor/widgets/class-tutor-carousel-one-elementor-widget.php:205
+#: elementor/widgets/class-tutor-carousel-two-elementor-widget.php:263
+#: elementor/widgets/class-video-hover-elementor-widget.php:403
+#: elementor/widgets/class-we-single-item-elementor-widget.php:149
+#: elementor/widgets/class-we-single-item-elementor-widget.php:226
+#: elementor/widgets/class-what-we-single-item-elementor-widget.php:159
+msgid "Normal"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:114
+msgid "Normal Navigation"
+msgstr ""
+
+#: admin/class-custom-post-type.php:61 admin/class-custom-post-type.php:96
+#: admin/class-custom-post-type.php:131
+msgid "Not Found"
+msgstr ""
+
+#: admin/class-custom-post-type.php:62 admin/class-custom-post-type.php:97
+#: admin/class-custom-post-type.php:132
+msgid "Not found in Trash"
+msgstr ""
+
+#: wp-widgets/class-post-category-widget.php:129
+#: wp-widgets/class-service-category-widget.php:108
+#: elementor/widgets/class-counterup-one-elementor-widget.php:111
+#: elementor/widgets/class-counterup-three-elementor-widget.php:194
+#: elementor/widgets/class-counterup-two-elementor-widget.php:111
+msgid "Number"
+msgstr ""
+
+#: elementor/widgets/class-counterup-one-elementor-widget.php:163
+#: elementor/widgets/class-counterup-three-elementor-widget.php:424
+#: elementor/widgets/class-counterup-two-elementor-widget.php:144
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:379
+#: elementor/widgets/class-single-skill-item-elementor-widget.php:139
+#: elementor/widgets/class-single-skill-item-elementor-widget.php:168
+msgid "Number Color"
+msgstr ""
+
+#: elementor/widgets/class-counterup-one-elementor-widget.php:205
+#: elementor/widgets/class-counterup-three-elementor-widget.php:491
+#: elementor/widgets/class-counterup-two-elementor-widget.php:171
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:452
+#: elementor/widgets/class-single-skill-item-elementor-widget.php:206
+msgid "Number Typography"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:410
+msgid "Offer Button"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:423
+msgid "Offer Button Paragraph"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:404
+msgid "Offer Button Settings"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:417
+msgid "Offer Button Title"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:429
+msgid "Offer Button URL"
+msgstr ""
+
+#: elementor/widgets/class-contact-info-list-one-elementor-widget.php:106
+msgid "Office Address"
+msgstr ""
+
+#: wp-widgets/class-post-category-widget.php:103
+#: wp-widgets/class-recent-post-widget.php:113
+#: wp-widgets/class-service-category-widget.php:82
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:116
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:116
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:191
+#: elementor/widgets/class-course-single-item-elementor-widget.php:124
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:103
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:123
+#: elementor/widgets/class-event-grid-one-elementor-widget.php:133
+msgid "Order"
+msgstr ""
+
+#: wp-widgets/class-post-category-widget.php:116
+#: wp-widgets/class-recent-post-widget.php:125
+#: wp-widgets/class-service-category-widget.php:95
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:126
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:126
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:201
+#: elementor/widgets/class-course-single-item-elementor-widget.php:134
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:113
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:133
+#: elementor/widgets/class-event-grid-one-elementor-widget.php:143
+msgid "OrderBy"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:166
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:167
+msgid ""
+"Our service is free to users because vendors pay us when they receive web "
+"traffic. We list all vendors - not just those that pay us - in our "
+"comprehensive directory so that you can compare, sort and filter your "
+"results to make the most informed decision possible. GetApp is a Gartner "
+"company. Gartner (NYSE: IT) is the world's leading information technology "
+"research."
+msgstr ""
+
+#: elementor/widgets/class-event-grid-one-elementor-widget.php:193
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:186
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:500
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:687
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:777
+msgid "Padding"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:174
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:216
+#: elementor/widgets/class-course-single-item-elementor-widget.php:154
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:133
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:153
+msgid "Pagination"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:183
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:225
+#: elementor/widgets/class-course-single-item-elementor-widget.php:163
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:142
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:162
+msgid "Pagination Alignment"
+msgstr ""
+
+#: elementor/widgets/class-course-single-item-elementor-widget.php:422
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:273
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:408
+msgid "Pagination Settings"
+msgstr ""
+
+#: elementor/widgets/class-footer-menu-list-elementor-widget.php:122
+msgid "Paragraph"
+msgstr ""
+
+#: elementor/widgets/class-accordion-elementor-widget.php:145
+#: elementor/widgets/class-accordion-elementor-widget.php:191
+#: elementor/widgets/class-course-single-item-elementor-widget.php:344
+#: elementor/widgets/class-course-single-item-elementor-widget.php:390
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:195
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:241
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:330
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:376
+#: elementor/widgets/class-footer-menu-list-elementor-widget.php:191
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:422
+#: elementor/widgets/class-mission-single-item-elementor-widget.php:157
+#: elementor/widgets/class-what-we-single-item-elementor-widget.php:184
+msgid "Paragraph Color"
+msgstr ""
+
+#: elementor/widgets/class-mission-single-item-elementor-widget.php:196
+#: elementor/widgets/class-what-we-single-item-elementor-widget.php:223
+msgid "Paragraph Hover Color"
+msgstr ""
+
+#: elementor/widgets/class-accordion-elementor-widget.php:241
+#: elementor/widgets/class-course-single-item-elementor-widget.php:519
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:370
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:505
+#: elementor/widgets/class-footer-menu-list-elementor-widget.php:284
+#: elementor/widgets/class-mission-single-item-elementor-widget.php:225
+#: elementor/widgets/class-what-we-single-item-elementor-widget.php:252
+msgid "Paragraph Typography"
+msgstr ""
+
+#: elementor/widgets/class-find-course-form-elementor-widget.php:120
+#: elementor/widgets/class-find-course-form-two-elementor-widget.php:114
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:188
+msgid "Placeholder"
+msgstr ""
+
+#: demo-data-import/class-demo-data-import.php:63
+msgid ""
+"Please Give Some Time To Import Theme Demo Data, It May Take 5-10 Minutes, "
+"It Will Download All Theme Data From Server So Be Cool!."
+msgstr ""
+
+#. Description of the plugin
+msgid "Plugin to contain short codes and custom post types of the Edus theme."
+msgstr ""
+
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:149
+msgid "Popular Charge"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:334
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:343
+msgid "Popular Courses"
+msgstr ""
+
+#: elementor/widgets/class-image-gallery-elementor-widget.php:108
+msgid "Popup Image"
+msgstr ""
+
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:325
+msgid "Position"
+msgstr ""
+
+#: admin/class-custom-post-type.php:51
+msgctxt "Post Type General Name"
+msgid "Course"
+msgstr ""
+
+#: admin/class-custom-post-type.php:86
+msgctxt "Post Type General Name"
+msgid "Event"
+msgstr ""
+
+#: admin/class-custom-post-type.php:121
+msgctxt "Post Type General Name"
+msgid "Mentor"
+msgstr ""
+
+#: admin/class-custom-post-type.php:52
+msgctxt "Post Type Singular Name"
+msgid "Course"
+msgstr ""
+
+#: admin/class-custom-post-type.php:87
+msgctxt "Post Type Singular Name"
+msgid "Event"
+msgstr ""
+
+#: admin/class-custom-post-type.php:122
+msgctxt "Post Type Singular Name"
+msgid "Mentor"
+msgstr ""
+
+#: elementor/widgets/class-edus-preloader-elementor-widget.php:39
+msgid "Preloader: 01"
+msgstr ""
+
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:164
+msgid "Price"
+msgstr ""
+
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:305
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:373
+msgid "Price Color"
+msgstr ""
+
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:283
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:351
+msgid "Price Plan Background "
+msgstr ""
+
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:48
+msgid "Price Plan: 01"
+msgstr ""
+
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:590
+msgid "Price Typography"
+msgstr ""
+
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:157
+msgid "Primary Plan"
+msgstr ""
+
+#: elementor/widgets/class-counterup-three-elementor-widget.php:186
+msgid "Projects Done"
+msgstr ""
+
+#: admin/partials/license-page.php:18
+msgid "Purchase Code"
+msgstr ""
+
+#: elementor/widgets/class-counterup-three-elementor-widget.php:240
+msgid "Radius"
+msgstr ""
+
+#: wp-widgets/class-post-category-widget.php:94
+#: wp-widgets/class-recent-post-widget.php:99
+#: wp-widgets/class-service-category-widget.php:77
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:132
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:132
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:207
+#: elementor/widgets/class-course-single-item-elementor-widget.php:140
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:119
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:139
+#: elementor/widgets/class-event-grid-one-elementor-widget.php:149
+msgid "Random"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:136
+msgid "Ratings"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:400
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:415
+msgid "Ratings Between Gap"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:467
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:482
+msgid "Ratings Color"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:130
+msgid "Ratings Show/Hide"
+msgstr ""
+
+#: elementor/widgets/class-core-single-item-elementor-widget.php:150
+msgid "Read Button"
+msgstr ""
+
+#: inc/class-edus-master-excerpt.php:57
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:97
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:100
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:97
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:100
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:172
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:175
+#: elementor/widgets/class-course-single-item-elementor-widget.php:149
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:128
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:148
+#: elementor/widgets/class-we-single-item-elementor-widget.php:107
+msgid "Read More"
+msgstr ""
+
+#: elementor/widgets/class-course-single-item-elementor-widget.php:352
+#: elementor/widgets/class-course-single-item-elementor-widget.php:398
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:203
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:249
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:338
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:384
+msgid "Read More Color"
+msgstr ""
+
+#: elementor/widgets/class-course-single-item-elementor-widget.php:147
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:126
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:146
+msgid "Read More Text"
+msgstr ""
+
+#: elementor/widgets/class-course-single-item-elementor-widget.php:525
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:376
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:511
+msgid "Read More Typography"
+msgstr ""
+
+#: wp-widgets/class-recent-post-widget.php:85
+msgid "Recent Posts"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:143
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:143
+#: elementor/widgets/class-event-grid-one-elementor-widget.php:160
+msgid "Regular"
+msgstr ""
+
+#: admin/class-custom-post-type.php:64
+msgid "Remove Course Image"
+msgstr ""
+
+#: admin/class-custom-post-type.php:99
+msgid "Remove Event Image"
+msgstr ""
+
+#: admin/class-custom-post-type.php:134
+msgid "Remove Mentor Image"
+msgstr ""
+
+#: elementor/widgets/class-counterup-one-elementor-widget.php:138
+#: elementor/widgets/class-empty-div-elementor-widget.php:189
+#: elementor/widgets/class-heading-title-elementor-widget.php:142
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:156
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:331
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:165
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:221
+#: elementor/widgets/class-shape-div-elementor-widget.php:196
+msgid "Right"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:188
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:230
+#: elementor/widgets/class-course-single-item-elementor-widget.php:168
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:147
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:167
+msgid "Right Align"
+msgstr ""
+
+#: elementor/widgets/class-core-single-item-elementor-widget.php:104
+msgid "Right Image"
+msgstr ""
+
+#: wp-widgets/class-about-me-two-widget.php:30
+#: wp-widgets/class-about-me-widget.php:36
+msgid "Rosalina D. Willaimson"
+msgstr ""
+
+#: admin/partials/license-page.php:24
+msgid "Save Changes"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:936
+msgid "Search Background Color"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:929
+msgid "Search Color"
+msgstr ""
+
+#: admin/class-custom-post-type.php:60
+msgid "Search Course"
+msgstr ""
+
+#: admin/class-custom-post-type.php:95
+msgid "Search Event"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:197
+msgid "Search Icon"
+msgstr ""
+
+#: elementor/widgets/class-find-course-form-elementor-widget.php:144
+#: elementor/widgets/class-find-course-form-two-elementor-widget.php:150
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:922
+msgid "Search Icon Color"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:876
+msgid "Search Left Margin"
+msgstr ""
+
+#: admin/class-custom-post-type.php:130
+msgid "Search Mentor"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:902
+msgid "Search Right Margin"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:181
+msgid "Search Settings"
+msgstr ""
+
+#: elementor/widgets/class-find-course-form-elementor-widget.php:122
+#: elementor/widgets/class-find-course-form-elementor-widget.php:123
+#: elementor/widgets/class-find-course-form-two-elementor-widget.php:116
+#: elementor/widgets/class-find-course-form-two-elementor-widget.php:117
+msgid "Search Your Courses"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:190
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:191
+msgid "Search Your keyword"
+msgstr ""
+
+#: elementor/widgets/class-core-single-item-elementor-widget.php:137
+msgid "Second Description"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:127
+msgid "See the E Learning Tools your comp titers - "
+msgstr ""
+
+#: elementor/widgets/class-core-single-item-elementor-widget.php:134
+msgid ""
+"See the E Learning Tools your competitors are already using - Start Now! "
+"GetApp helps more than 800k businesses find the best software for their "
+"needs to know about our mission."
+msgstr ""
+
+#: elementor/widgets/class-core-single-item-elementor-widget.php:117
+msgid ""
+"See the E Learning Tools your competitors are already using to heriangton.."
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:113
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:113
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:188
+#: elementor/widgets/class-course-single-item-elementor-widget.php:121
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:100
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:120
+#: elementor/widgets/class-event-grid-one-elementor-widget.php:130
+msgid "select category as you want, leave it blank for all category"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:469
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:511
+msgid "select category typography"
+msgstr ""
+
+#: elementor/widgets/class-event-grid-one-elementor-widget.php:270
+msgid "select description typography"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:147
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:147
+#: elementor/widgets/class-event-grid-one-elementor-widget.php:164
+msgid "select excerpt length"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:167
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:167
+#: elementor/widgets/class-course-single-item-elementor-widget.php:106
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:105
+#: elementor/widgets/class-event-grid-one-elementor-widget.php:105
+msgid "select grid column"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:199
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:252
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:458
+#: elementor/widgets/class-tutor-carousel-two-elementor-widget.php:122
+#: elementor/widgets/class-tutor-carousel-two-elementor-widget.php:143
+#: elementor/widgets/class-tutor-carousel-two-elementor-widget.php:164
+#: elementor/widgets/class-tutor-carousel-two-elementor-widget.php:185
+msgid "select icon"
+msgstr ""
+
+#: elementor/widgets/class-contact-info-list-one-elementor-widget.php:95
+#: elementor/widgets/class-course-category-item-elementor-widget.php:114
+#: elementor/widgets/class-footer-menu-list-elementor-widget.php:112
+#: elementor/widgets/class-footer-menu-list-elementor-widget.php:143
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:117
+#: elementor/widgets/class-mission-single-item-elementor-widget.php:101
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:311
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:115
+#: elementor/widgets/class-video-hover-elementor-widget.php:156
+#: elementor/widgets/class-we-single-item-elementor-widget.php:124
+msgid "select Icon."
+msgstr ""
+
+#: elementor/widgets/class-single-skill-item-elementor-widget.php:109
+msgid "select Image."
+msgstr ""
+
+#: elementor/widgets/class-event-grid-one-elementor-widget.php:264
+msgid "select location typography"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:143
+msgid "select menu for navbar"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:123
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:136
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:123
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:136
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:198
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:211
+#: elementor/widgets/class-course-single-item-elementor-widget.php:131
+#: elementor/widgets/class-course-single-item-elementor-widget.php:144
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:110
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:123
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:130
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:143
+#: elementor/widgets/class-event-grid-one-elementor-widget.php:140
+#: elementor/widgets/class-event-grid-one-elementor-widget.php:153
+msgid "select order"
+msgstr ""
+
+#: elementor/widgets/class-course-single-item-elementor-widget.php:345
+#: elementor/widgets/class-course-single-item-elementor-widget.php:391
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:196
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:242
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:331
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:377
+#: elementor/widgets/class-mission-single-item-elementor-widget.php:158
+#: elementor/widgets/class-mission-single-item-elementor-widget.php:197
+#: elementor/widgets/class-what-we-single-item-elementor-widget.php:185
+#: elementor/widgets/class-what-we-single-item-elementor-widget.php:224
+msgid "select Paragraph Color"
+msgstr ""
+
+#: elementor/widgets/class-accordion-elementor-widget.php:243
+#: elementor/widgets/class-contact-info-list-one-elementor-widget.php:175
+#: elementor/widgets/class-course-single-item-elementor-widget.php:521
+#: elementor/widgets/class-course-single-item-elementor-widget.php:527
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:372
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:378
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:507
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:513
+#: elementor/widgets/class-mission-single-item-elementor-widget.php:227
+#: elementor/widgets/class-what-we-single-item-elementor-widget.php:254
+msgid "select Paragraph typography"
+msgstr ""
+
+#: elementor/widgets/class-counterup-three-elementor-widget.php:138
+#: elementor/widgets/class-counterup-two-elementor-widget.php:95
+msgid "select theme."
+msgstr ""
+
+#: elementor/widgets/class-contact-info-list-one-elementor-widget.php:166
+msgid "select Title typography"
+msgstr ""
+
+#: elementor/widgets/class-accordion-elementor-widget.php:237
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:462
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:504
+#: elementor/widgets/class-course-single-item-elementor-widget.php:515
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:366
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:501
+#: elementor/widgets/class-event-grid-one-elementor-widget.php:258
+#: elementor/widgets/class-mission-single-item-elementor-widget.php:221
+#: elementor/widgets/class-what-we-single-item-elementor-widget.php:248
+msgid "select title typography"
+msgstr ""
+
+#: elementor/widgets/class-image-gallery-elementor-widget.php:122
+msgid "Senior Party 2019"
+msgstr ""
+
+#: elementor/widgets/class-find-course-form-elementor-widget.php:129
+#: elementor/widgets/class-find-course-form-two-elementor-widget.php:123
+msgid "set button button text"
+msgstr ""
+
+#: admin/class-custom-post-type.php:65
+msgid "Set Course Image"
+msgstr ""
+
+#: admin/class-custom-post-type.php:100
+msgid "Set Event Image"
+msgstr ""
+
+#: admin/class-custom-post-type.php:135
+msgid "Set Mentor Image"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:372
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:393
+msgid "set navbar button link"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:365
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:386
+msgid "set navbar button text"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:418
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:424
+msgid "set navbar offer text"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:145
+msgid "set ratings"
+msgstr ""
+
+#: wp-widgets/class-widget-nav-menu.php:24
+msgid "set your footer menu top show/hide"
+msgstr ""
+
+#: wp-widgets/class-widget-nav-menu.php:29
+msgid "set your menu style"
+msgstr ""
+
+#: elementor/widgets/class-empty-div-elementor-widget.php:118
+#: elementor/widgets/class-shape-div-elementor-widget.php:125
+#: elementor/widgets/class-video-hover-elementor-widget.php:260
+msgid "Shape Border"
+msgstr ""
+
+#: elementor/widgets/class-counterup-one-elementor-widget.php:179
+#: elementor/widgets/class-shape-div-elementor-widget.php:97
+msgid "Shape Color"
+msgstr ""
+
+#: elementor/widgets/class-shape-div-elementor-widget.php:39
+msgid "Shape Div"
+msgstr ""
+
+#: elementor/widgets/class-empty-div-elementor-widget.php:125
+#: elementor/widgets/class-shape-div-elementor-widget.php:132
+#: elementor/widgets/class-video-hover-elementor-widget.php:274
+msgid "Shape Height"
+msgstr ""
+
+#: elementor/widgets/class-empty-div-elementor-widget.php:106
+#: elementor/widgets/class-shape-div-elementor-widget.php:113
+#: elementor/widgets/class-video-hover-elementor-widget.php:236
+msgid "Shape Radius"
+msgstr ""
+
+#: elementor/widgets/class-heading-title-elementor-widget.php:163
+msgid "Shape Top Space"
+msgstr ""
+
+#: elementor/widgets/class-shape-div-elementor-widget.php:104
+msgid "Shape Transparent Color"
+msgstr ""
+
+#: elementor/widgets/class-empty-div-elementor-widget.php:151
+#: elementor/widgets/class-shape-div-elementor-widget.php:158
+#: elementor/widgets/class-video-hover-elementor-widget.php:326
+msgid "Shape Width"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:142
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:142
+#: elementor/widgets/class-event-grid-one-elementor-widget.php:159
+msgid "Short"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:360
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:381
+msgid "show/hide button"
+msgstr ""
+
+#: elementor/widgets/class-heading-title-elementor-widget.php:114
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:129
+msgid "show/hide description"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:119
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:140
+msgid "show/hide designation"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:106
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:106
+msgid "show/hide image"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:132
+msgid "show/hide ratings"
+msgstr ""
+
+#: elementor/widgets/class-counterup-three-elementor-widget.php:176
+#: elementor/widgets/class-counterup-two-elementor-widget.php:102
+msgid "show/hide Subtitle"
+msgstr ""
+
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:89
+msgid "show/hide title"
+msgstr ""
+
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:176
+msgid "Sign"
+msgstr ""
+
+#: elementor/widgets/class-counterup-one-elementor-widget.php:117
+#: elementor/widgets/class-counterup-three-elementor-widget.php:206
+msgid "sign"
+msgstr ""
+
+#: elementor/widgets/class-counterup-one-elementor-widget.php:186
+#: elementor/widgets/class-counterup-three-elementor-widget.php:440
+msgid "Sign Color"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:387
+msgid "Signup"
+msgstr ""
+
+#: elementor/widgets/class-counterup-one-elementor-widget.php:213
+msgid "Sing Typography"
+msgstr ""
+
+#: elementor/widgets/class-single-skill-item-elementor-widget.php:36
+msgid "Skill Item: 01"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:232
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:274
+#: elementor/widgets/class-course-single-item-elementor-widget.php:213
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:211
+msgid "Slider Nav Position"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:397
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:439
+#: elementor/widgets/class-core-single-item-elementor-widget.php:169
+msgid "Slider Nav Styling Settings"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:199
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:241
+#: elementor/widgets/class-brand-slider-elementor-widget.php:122
+#: elementor/widgets/class-course-single-item-elementor-widget.php:180
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:178
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:177
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:178
+#: elementor/widgets/class-tutor-carousel-one-elementor-widget.php:87
+msgid "Slider Settings"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:92
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:92
+#: elementor/widgets/class-course-single-item-elementor-widget.php:91
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:91
+msgid "Slider System"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:184
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:185
+msgid "slidesToShow"
+msgstr ""
+
+#: wp-widgets/class-about-me-widget.php:48
+#: wp-widgets/class-about-us-widget.php:36
+#: wp-widgets/class-social-share-widget.php:30
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:448
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:456
+msgid "Social Icon"
+msgstr ""
+
+#: elementor/widgets/class-tutor-carousel-two-elementor-widget.php:183
+msgid "Social Icon Four"
+msgstr ""
+
+#: elementor/widgets/class-tutor-carousel-two-elementor-widget.php:194
+msgid "Social Icon Four URL"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:476
+msgid "Social Icon Items"
+msgstr ""
+
+#: elementor/widgets/class-tutor-carousel-two-elementor-widget.php:120
+msgid "Social Icon One"
+msgstr ""
+
+#: elementor/widgets/class-tutor-carousel-two-elementor-widget.php:131
+msgid "Social Icon One URL"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:442
+msgid "Social Icon Settings"
+msgstr ""
+
+#: elementor/widgets/class-tutor-carousel-two-elementor-widget.php:162
+msgid "Social Icon Three"
+msgstr ""
+
+#: elementor/widgets/class-tutor-carousel-two-elementor-widget.php:173
+msgid "Social Icon Three URL"
+msgstr ""
+
+#: elementor/widgets/class-tutor-carousel-two-elementor-widget.php:141
+msgid "Social Icon Two"
+msgstr ""
+
+#: elementor/widgets/class-tutor-carousel-two-elementor-widget.php:152
+msgid "Social Icon Two URL"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:467
+msgid "Social Icon URL"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:425
+msgid "Start Free Trail"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:1097
+msgid "Sticky Nav Button One Styling"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:1159
+msgid "Sticky Nav Button Two Styling"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:1062
+msgid "Sticky Navbar Styling"
+msgstr ""
+
+#: elementor/widgets/class-course-single-item-elementor-widget.php:632
+#: elementor/widgets/class-course-single-item-elementor-widget.php:713
+msgid "Student"
+msgstr ""
+
+#: elementor/widgets/class-what-we-single-item-elementor-widget.php:117
+msgid "Students"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:315
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:357
+#: elementor/widgets/class-contact-info-list-one-elementor-widget.php:117
+#: elementor/widgets/class-counterup-one-elementor-widget.php:151
+#: elementor/widgets/class-counterup-three-elementor-widget.php:226
+#: elementor/widgets/class-counterup-two-elementor-widget.php:122
+#: elementor/widgets/class-course-category-item-elementor-widget.php:127
+#: elementor/widgets/class-course-single-item-elementor-widget.php:308
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:159
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:294
+#: elementor/widgets/class-event-grid-one-elementor-widget.php:171
+#: elementor/widgets/class-find-course-form-elementor-widget.php:139
+#: elementor/widgets/class-find-course-form-two-elementor-widget.php:133
+#: elementor/widgets/class-footer-menu-list-elementor-widget.php:172
+#: elementor/widgets/class-heading-title-elementor-widget.php:156
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:169
+#: elementor/widgets/class-image-gallery-elementor-widget.php:131
+#: elementor/widgets/class-mission-single-item-elementor-widget.php:121
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:253
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:334
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:349
+#: elementor/widgets/class-tutor-carousel-one-elementor-widget.php:169
+#: elementor/widgets/class-tutor-carousel-two-elementor-widget.php:225
+#: elementor/widgets/class-what-we-single-item-elementor-widget.php:148
+msgid "Styling Settings"
+msgstr ""
+
+#: elementor/widgets/class-core-single-item-elementor-widget.php:115
+msgid "Subtitle"
+msgstr ""
+
+#: elementor/widgets/class-counterup-three-elementor-widget.php:172
+#: elementor/widgets/class-counterup-two-elementor-widget.php:100
+msgid "Subtitle Show/Hide"
+msgstr ""
+
+#: elementor/widgets/class-accordion-elementor-widget.php:120
+msgid "Tab Settings"
+msgstr ""
+
+#: elementor/widgets/class-tutor-carousel-two-elementor-widget.php:203
+msgid "Team Member Items"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:156
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:157
+msgid "Testimonial Item"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:36
+msgid "Testimonial: 01"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:36
+msgid "Testimonial: 02"
+msgstr ""
+
+#: elementor/widgets/class-counterup-three-elementor-widget.php:124
+#: elementor/widgets/class-counterup-two-elementor-widget.php:88
+msgid "Theme"
+msgstr ""
+
+#: elementor/widgets/class-event-grid-one-elementor-widget.php:176
+msgid "Time Color"
+msgstr ""
+
+#: wp-widgets/class-post-category-widget.php:92
+#: wp-widgets/class-recent-post-widget.php:97
+#: wp-widgets/class-service-category-widget.php:75
+#: elementor/widgets/class-accordion-elementor-widget.php:87
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:130
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:130
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:205
+#: elementor/widgets/class-contact-info-list-one-elementor-widget.php:103
+#: elementor/widgets/class-core-single-item-elementor-widget.php:109
+#: elementor/widgets/class-counterup-one-elementor-widget.php:105
+#: elementor/widgets/class-counterup-three-elementor-widget.php:182
+#: elementor/widgets/class-counterup-two-elementor-widget.php:105
+#: elementor/widgets/class-course-category-item-elementor-widget.php:97
+#: elementor/widgets/class-course-single-item-elementor-widget.php:138
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:117
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:137
+#: elementor/widgets/class-event-grid-one-elementor-widget.php:147
+#: elementor/widgets/class-footer-menu-list-elementor-widget.php:101
+#: elementor/widgets/class-heading-title-elementor-widget.php:103
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:95
+#: elementor/widgets/class-image-gallery-elementor-widget.php:119
+#: elementor/widgets/class-mission-single-item-elementor-widget.php:87
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:155
+#: elementor/widgets/class-single-skill-item-elementor-widget.php:87
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:124
+#: elementor/widgets/class-we-single-item-elementor-widget.php:87
+#: elementor/widgets/class-what-we-single-item-elementor-widget.php:96
+msgid "Title"
+msgstr ""
+
+#: elementor/widgets/class-heading-title-elementor-widget.php:185
+msgid "Title Bottom Space"
+msgstr ""
+
+#: elementor/widgets/class-image-gallery-elementor-widget.php:145
+msgid "TItle Color"
+msgstr ""
+
+#: elementor/widgets/class-accordion-elementor-widget.php:138
+#: elementor/widgets/class-accordion-elementor-widget.php:184
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:330
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:367
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:372
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:409
+#: elementor/widgets/class-contact-info-list-one-elementor-widget.php:143
+#: elementor/widgets/class-core-single-item-elementor-widget.php:216
+#: elementor/widgets/class-counterup-one-elementor-widget.php:171
+#: elementor/widgets/class-counterup-three-elementor-widget.php:454
+#: elementor/widgets/class-counterup-two-elementor-widget.php:152
+#: elementor/widgets/class-course-category-item-elementor-widget.php:133
+#: elementor/widgets/class-course-single-item-elementor-widget.php:337
+#: elementor/widgets/class-course-single-item-elementor-widget.php:383
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:188
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:234
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:323
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:369
+#: elementor/widgets/class-event-grid-one-elementor-widget.php:223
+#: elementor/widgets/class-footer-menu-list-elementor-widget.php:184
+#: elementor/widgets/class-heading-title-elementor-widget.php:213
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:350
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:415
+#: elementor/widgets/class-mission-single-item-elementor-widget.php:150
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:291
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:359
+#: elementor/widgets/class-single-skill-item-elementor-widget.php:132
+#: elementor/widgets/class-single-skill-item-elementor-widget.php:161
+#: elementor/widgets/class-we-single-item-elementor-widget.php:237
+#: elementor/widgets/class-we-single-item-elementor-widget.php:267
+#: elementor/widgets/class-what-we-single-item-elementor-widget.php:177
+msgid "Title Color"
+msgstr ""
+
+#: elementor/widgets/class-heading-title-elementor-widget.php:220
+msgid "Title Extra Color"
+msgstr ""
+
+#: elementor/widgets/class-heading-title-elementor-widget.php:249
+msgid "Title Extra Typography"
+msgstr ""
+
+#: elementor/widgets/class-course-category-item-elementor-widget.php:166
+#: elementor/widgets/class-event-grid-one-elementor-widget.php:230
+#: elementor/widgets/class-mission-single-item-elementor-widget.php:189
+#: elementor/widgets/class-what-we-single-item-elementor-widget.php:216
+msgid "Title Hover Color"
+msgstr ""
+
+#: elementor/widgets/class-footer-menu-list-elementor-widget.php:177
+msgid "Title Icon Color"
+msgstr ""
+
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:359
+msgid "Title Margin Bottom"
+msgstr ""
+
+#: elementor/widgets/class-counterup-one-elementor-widget.php:94
+#: elementor/widgets/class-heading-title-elementor-widget.php:91
+msgid "Title Shape"
+msgstr ""
+
+#: elementor/widgets/class-heading-title-elementor-widget.php:227
+msgid "Title Shape Color"
+msgstr ""
+
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:86
+msgid "Title Show/Hide"
+msgstr ""
+
+#: elementor/widgets/class-video-hover-elementor-widget.php:382
+msgid "Title Styling Settings"
+msgstr ""
+
+#: elementor/widgets/class-accordion-elementor-widget.php:235
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:460
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:502
+#: elementor/widgets/class-contact-info-list-one-elementor-widget.php:165
+#: elementor/widgets/class-core-single-item-elementor-widget.php:311
+#: elementor/widgets/class-counterup-one-elementor-widget.php:221
+#: elementor/widgets/class-counterup-three-elementor-widget.php:507
+#: elementor/widgets/class-counterup-two-elementor-widget.php:179
+#: elementor/widgets/class-course-category-item-elementor-widget.php:194
+#: elementor/widgets/class-course-single-item-elementor-widget.php:513
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:364
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:499
+#: elementor/widgets/class-event-grid-one-elementor-widget.php:256
+#: elementor/widgets/class-find-course-form-elementor-widget.php:195
+#: elementor/widgets/class-find-course-form-two-elementor-widget.php:189
+#: elementor/widgets/class-footer-menu-list-elementor-widget.php:276
+#: elementor/widgets/class-heading-title-elementor-widget.php:244
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:444
+#: elementor/widgets/class-image-gallery-elementor-widget.php:165
+#: elementor/widgets/class-mission-single-item-elementor-widget.php:219
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:580
+#: elementor/widgets/class-single-skill-item-elementor-widget.php:198
+#: elementor/widgets/class-we-single-item-elementor-widget.php:302
+#: elementor/widgets/class-what-we-single-item-elementor-widget.php:246
+msgid "Title Typography"
+msgstr ""
+
+#: wp-widgets/class-contact-info-widget.php:35
+#: wp-widgets/class-post-category-widget.php:99
+#: wp-widgets/class-recent-post-widget.php:105
+msgid "Title:"
+msgstr ""
+
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:329
+msgid "Top"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:102
+msgid "Top bar"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:948
+msgid "Top bar Menu Styling"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:869
+msgid "Top bar Search Styling"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:979
+msgid "Top Menu Color"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:993
+msgid "Top Menu Hover Color"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:986
+msgid "Top Menu Icon Color"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:955
+msgid "Top Menu Right Margin"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:242
+msgid "Top Nav Menu"
+msgstr ""
+
+#: elementor/widgets/class-heading-title-elementor-widget.php:123
+msgid "Top Packages"
+msgstr ""
+
+#: elementor/widgets/class-course-single-item-elementor-widget.php:252
+msgid "Top Position"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:236
+msgid "Top Right Menu Settings"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:90
+msgid "Topbar"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:103
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:103
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:178
+#: elementor/widgets/class-course-single-item-elementor-widget.php:111
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:90
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:110
+#: elementor/widgets/class-event-grid-one-elementor-widget.php:120
+msgid "Total Posts"
+msgstr ""
+
+#: elementor/widgets/class-tutor-carousel-two-elementor-widget.php:39
+msgid "Tutor Item: 02"
+msgstr ""
+
+#: elementor/widgets/class-tutor-carousel-one-elementor-widget.php:39
+msgid "Tutor Slider: 01"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:860
+msgid "Typography"
+msgstr ""
+
+#: elementor/widgets/class-accordion-elementor-widget.php:230
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:455
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:497
+#: elementor/widgets/class-contact-info-list-one-elementor-widget.php:158
+#: elementor/widgets/class-core-single-item-elementor-widget.php:304
+#: elementor/widgets/class-counterup-one-elementor-widget.php:197
+#: elementor/widgets/class-counterup-three-elementor-widget.php:475
+#: elementor/widgets/class-counterup-two-elementor-widget.php:163
+#: elementor/widgets/class-course-category-item-elementor-widget.php:187
+#: elementor/widgets/class-course-single-item-elementor-widget.php:508
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:359
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:494
+#: elementor/widgets/class-event-grid-one-elementor-widget.php:251
+#: elementor/widgets/class-find-course-form-elementor-widget.php:185
+#: elementor/widgets/class-find-course-form-two-elementor-widget.php:145
+#: elementor/widgets/class-footer-menu-list-elementor-widget.php:268
+#: elementor/widgets/class-heading-title-elementor-widget.php:238
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:436
+#: elementor/widgets/class-mission-single-item-elementor-widget.php:214
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:570
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:476
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:491
+#: elementor/widgets/class-we-single-item-elementor-widget.php:295
+#: elementor/widgets/class-what-we-single-item-elementor-widget.php:241
+msgid "Typography Settings"
+msgstr ""
+
+#: elementor/widgets/class-course-category-item-elementor-widget.php:99
+msgid "UI/UX Design"
+msgstr ""
+
+#: elementor/widgets/class-what-we-single-item-elementor-widget.php:132
+msgid "Undergraduate Study"
+msgstr ""
+
+#: admin/class-custom-post-type.php:59
+msgid "Update Course"
+msgstr ""
+
+#: admin/class-custom-post-type.php:94
+msgid "Update Event"
+msgstr ""
+
+#: admin/class-custom-post-type.php:129
+msgid "Update Mentor"
+msgstr ""
+
+#: elementor/widgets/class-tutor-carousel-two-elementor-widget.php:96
+msgid "upload background image"
+msgstr ""
+
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:134
+msgid "Upload logo for navbar"
+msgstr ""
+
+#: wp-widgets/class-about-me-two-widget.php:24
+#: wp-widgets/class-about-me-widget.php:24
+#: wp-widgets/class-about-us-two-widget.php:24
+#: wp-widgets/class-about-us-two-widget.php:34
+#: wp-widgets/class-about-us-widget.php:24
+msgid "Upload Your Photo"
+msgstr ""
+
+#: elementor/widgets/class-video-hover-elementor-widget.php:48
+msgid "Video Player"
+msgstr ""
+
+#: admin/class-custom-post-type.php:55
+msgid "View Course"
+msgstr ""
+
+#: admin/class-custom-post-type.php:90
+msgid "View Event"
+msgstr ""
+
+#: admin/class-custom-post-type.php:125
+msgid "View Mentor"
+msgstr ""
+
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:98
+msgid "We are 24/7 icon-box"
+msgstr ""
+
+#: elementor/widgets/class-we-single-item-elementor-widget.php:36
+msgid "We Single Item"
+msgstr ""
+
+#: wp-widgets/class-about-me-two-widget.php:36
+msgid ""
+"We work with clients to integrate the flow of the customer experi ence "
+"across channels (e.g., face-to-face, telephone), opening up new lead sources,"
+" supporting sales for smaller-value transactions,and creating new models for "
+"service. We continuously new practical."
+msgstr ""
+
+#: elementor/widgets/class-what-we-single-item-elementor-widget.php:100
+msgid "we-doUndergraduates"
+msgstr ""
+
+#: elementor/widgets/class-core-single-item-elementor-widget.php:122
+msgid "What We Do"
+msgstr ""
+
+#: elementor/widgets/class-what-we-single-item-elementor-widget.php:36
+msgid "What We: Item 01"
+msgstr ""
+
+#: elementor/widgets/class-counterup-three-elementor-widget.php:132
+#: elementor/widgets/class-counterup-two-elementor-widget.php:92
+msgid "White"
+msgstr ""
+
+#: elementor/widgets/class-counterup-three-elementor-widget.php:330
+msgid "Width"
+msgstr ""
+
+#: elementor/widgets/class-counterup-one-elementor-widget.php:98
+#: elementor/widgets/class-heading-title-elementor-widget.php:95
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:126
+msgid "With Shape"
+msgstr ""
+
+#: elementor/widgets/class-counterup-one-elementor-widget.php:99
+#: elementor/widgets/class-heading-title-elementor-widget.php:96
+#: elementor/widgets/class-navbar-style-one-elementor-widget.php:127
+msgid "Without Shape"
+msgstr ""
+
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:123
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:125
+#: elementor/widgets/class-price-plan-one-elementor-widget.php:138
+msgid "Yearly Charge"
+msgstr ""
+
+#: elementor/widgets/class-counterup-two-elementor-widget.php:107
+msgid "Years Experience"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:208
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:250
+#: elementor/widgets/class-brand-slider-elementor-widget.php:131
+#: elementor/widgets/class-course-single-item-elementor-widget.php:189
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:187
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:186
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:187
+#: elementor/widgets/class-tutor-carousel-one-elementor-widget.php:96
+msgid "you can set how many item show in slider"
+msgstr ""
+
+#: elementor/widgets/class-brand-slider-elementor-widget.php:139
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:194
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:195
+#: elementor/widgets/class-tutor-carousel-one-elementor-widget.php:104
+msgid "you can set margin for slider"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:190
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:232
+#: elementor/widgets/class-course-single-item-elementor-widget.php:170
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:149
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:169
+msgid "you can set pagination alignment."
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:176
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:218
+#: elementor/widgets/class-course-single-item-elementor-widget.php:156
+#: elementor/widgets/class-course-single-item-three-elementor-widget.php:135
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:155
+msgid "you can set yes to show pagination."
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:217
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:225
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:260
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:268
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:280
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:259
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:267
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:302
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:310
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:322
+#: elementor/widgets/class-brand-slider-elementor-widget.php:163
+#: elementor/widgets/class-brand-slider-elementor-widget.php:171
+#: elementor/widgets/class-course-single-item-elementor-widget.php:198
+#: elementor/widgets/class-course-single-item-elementor-widget.php:206
+#: elementor/widgets/class-course-single-item-elementor-widget.php:241
+#: elementor/widgets/class-course-single-item-elementor-widget.php:261
+#: elementor/widgets/class-course-single-item-elementor-widget.php:273
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:196
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:204
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:239
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:247
+#: elementor/widgets/class-course-single-item-two-elementor-widget.php:259
+#: elementor/widgets/class-footer-menu-list-elementor-widget.php:95
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:215
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:223
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:231
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:240
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:253
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:266
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:216
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:224
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:232
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:241
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:254
+#: elementor/widgets/class-testimonial-two-elementor-widget.php:267
+#: elementor/widgets/class-tutor-carousel-one-elementor-widget.php:128
+#: elementor/widgets/class-tutor-carousel-one-elementor-widget.php:137
+msgid "you can set yes/no to enable/disable"
+msgstr ""
+
+#: wp-widgets/class-widget-nav-menu.php:70
+msgid "Your Nav Menu"
+msgstr ""
